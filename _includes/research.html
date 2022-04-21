@@ -1,0 +1,31 @@
+<!-- Research -->
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].research.section | default: "research" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].research.title | markdownify | default: "research" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].research.text | markdownify }}</h3>
+      </div>
+    </div>
+    <div class="row">
+	{% for project in site.research %}
+      <div class="col-md-4 col-sm-6 research-item">
+        <a class="research-link" data-toggle="modal" href="#p{{ forloop.index }}">
+          <div class="research-hover">
+            <div class="research-hover-content">
+              <i class="{{ site.data.style.research-icon | default: "fas fa-plus fa-3x" }}"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+        </a>
+        <div class="research-caption">
+          <h4>{{ project.caption.title }}</h4>
+          <p class="text-muted">{{ project.caption.subtitle }}</p>
+        </div>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+{% include modals.html %}
+<!-- End Research -->
