@@ -27,10 +27,10 @@ author     : Shaohe Wang Lab
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: 166777659 #Google Analytics tracking code here
 
-collections:
-  portfolio:
+# collections:
+#   portfolio:
 
 markdown: kramdown
 
