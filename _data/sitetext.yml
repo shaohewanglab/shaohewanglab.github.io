@@ -66,9 +66,9 @@ en: &DEFAULT_EN
 
   research:
     title: "Research"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Understanding by building."
     section: research
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
