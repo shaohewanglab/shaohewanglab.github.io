@@ -125,15 +125,15 @@ en: &DEFAULT_EN
         icon: fas fa-list
       - url: https://www.ibiology.org/online-biology-courses/microscopy-series/
         title: Microscopy
-        desc: A great collection of lectures on microscopy by **iBiology**.
+        desc: A great collection of lectures on microscopy by iBiology.
         icon: fas fa-microscope
       - url: https://swcarpentry.github.io/git-novice/
         title: Git
-        desc: Software Carpentry lesson for learning **Git**.
+        desc: Software Carpentry lesson for learning Git.
         icon: fab fa-git
       - url: http://swcarpentry.github.io/python-novice-gapminder/
         title: Python
-        desc: Software Carpentry lesson for learning **Python**.
+        desc: Software Carpentry lesson for learning Python.
         icon: fab fa-python
       - url: https://software-carpentry.org/lessons/index.html
         title: Software Carpentry
@@ -146,11 +146,19 @@ en: &DEFAULT_EN
       - url: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C
         title: Linear Algebra
         desc: MIT Open Course on Linear Algebra by Prof. Gilbert Strang
-        icon: fas fa-book-open
-      - url: ""#home"
-        title: Lab Blog
-        desc: Coming soon!
-        icon: fas fa-blog
+        icon: fas fa-infinity
+      - url: https://www.ibiology.org/professional-development/scientific-presentations/
+        title: Presentation
+        desc: How to give a scientific talk on iBiology.
+        icon: fas fa-chalkboard-teacher
+      # - url: ""#home"
+      #   title: Lab Blog
+      #   desc: Coming soon!
+      #   icon: fas fa-blog
+      # - url: ""#home"
+      #   title: Good Readings
+      #   desc: Coming soon!
+      #   icon: fas fa-book-open
 
   fun:
     title: "Lab Fun"
