@@ -74,7 +74,7 @@ en: &DEFAULT_EN
 
 
   fun:
-    title: "Lab Fun!"
+    title: "Lab Fun"
     text: "Life isn't about waiting for the storm to pass. <br> It's about learning how to dance in the rain."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Lab News"
-    text: "Our story."
+    text: "Our story"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -152,6 +152,10 @@ en: &DEFAULT_EN
         icon: fab fa-github
       - url: mailto:shaohewanglab@gmail.com
         icon: fa fa-envelope
+    affiliation:
+      - url: https://www.janelia.org
+        name: HHMI Janelia
+        logo: /assets/img/logo/HHMI_Janelia_Logo-Black.png
 
 en-US:
   <<: *DEFAULT_EN
