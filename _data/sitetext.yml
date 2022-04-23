@@ -31,6 +31,12 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://linkedin.com/in/shaohe-wang-87833513/
             icon: fab fa-linkedin-in
+          - url: https://github.com/snownontrace
+            icon: "fab fa-github"
+          - url: https://orcid.org/0000-0001-9522-2359
+            icon: fab fa-orcid
+          - url: https://github.com/shaohewanglab
+            icon: "fab fa-github"
       - name: "Di Wu"
         degree: Ph.D.
         position: "Research Scientist"
@@ -40,6 +46,8 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://linkedin.com/in/di-wu-68a78b104/
             icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0002-6241-2102
+            icon: fa-brands fa-orcid
       - name: "You?"
         # role: "Join us!"
         image: assets/img/team/500x500.jpg
@@ -76,23 +84,17 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
-      - name: "Shaohe Wang"
-        description: jpuicovjlkcmvk;fdk
+      - name: "Event 1"
+        description: Some description for _event 1_!
         image: assets/img/team/Shaohe_Wang.jpg
-      - name: "Shaohe Wang"
-        description: ldjflajdf'sadkf;dsaklf
+      - name: "Event 2"
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
         image: assets/img/team/Di_Wu.jpg
-      - name: "Shaohe Wang"
-        description: jpuicovjlkcmvk;fdk
+      - name: "Event 3"
+        description: supporting **markdown**
         image: assets/img/team/Shaohe_Wang.jpg
-      - name: "Shaohe Wang"
-        description: ldjflajdf'sadkf;dsaklf
-        image: assets/img/team/Di_Wu.jpg
-      - name: "Shaohe Wang"
-        description: jpuicovjlkcmvk;fdk
-        image: assets/img/team/Shaohe_Wang.jpg
-      - name: "Shaohe Wang"
-        description: ldjflajdf'sadkf;dsaklf
+      - name: "Event 4"
+        description: Some description for event 4!
         image: assets/img/team/Di_Wu.jpg
 
   timeline:
