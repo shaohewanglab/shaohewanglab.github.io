@@ -52,14 +52,10 @@ en: &DEFAULT_EN
             icon: ai ai-orcid
           - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
             icon: ai ai-google-scholar
-      - name: "You?"
-        # role: "Join us!"
+      - name: "[Join us!](#contact)"
+        degree:
         image: assets/img/team/500x500.jpg
-        # social:
-        #   - url: https://twitter.com
-        #     icon: fab fa-twitter
-        #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
+        position:
 
   services:
     title: "Services"
