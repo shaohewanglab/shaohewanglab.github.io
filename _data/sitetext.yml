@@ -94,6 +94,7 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
         name: 2022-DC-cherry-blossom.jpeg
         description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
+    events_wide:
       - image: assets/img/fun/2022-DC-tidal-basin.jpeg
         name: 2022-DC-tidal-basin.jpeg
         description: "Overlook of the Jefferson Memorial across the tidal basin."
@@ -127,7 +128,7 @@ en: &DEFAULT_EN
       #   alt:
       #   # you can enforce the alignment
       #   align: right
-    end: "We are recruiting! <br> [Join us!](#contact)"
+    end: "We are recruiting! <br> Join us!"
 
   contact:
     title: "Contact Us"
