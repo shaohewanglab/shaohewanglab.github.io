@@ -2,8 +2,11 @@
 .fun-event {
   margin-bottom: 50px;
   text-align: center;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
   img {
-    width: 400px;
+    // width: 400px;
     height: 300px;
     // border: 7px solid fade-out($black, 0.9);
     object-fit: contain;
@@ -15,9 +18,9 @@
     text-transform: none;
   }
   p {
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    // width: 400px;
+    // margin-left: auto;
+    // margin-right: auto;
     // text-align: left;
   }
 }
