@@ -1,4 +1,4 @@
-// Styling for the team section
+// Styling for the fun section
 .fun-event {
   margin-bottom: 50px;
   text-align: center;
@@ -18,6 +18,32 @@
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+    // text-align: left;
+  }
+}
+
+.fun-event-wide {
+  margin-bottom: 50px;
+  text-align: center;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  img {
+    // width: 800px;
+    height: 300px;
+    // border: 7px solid fade-out($black, 0.9);
+    object-fit: contain;
+    // object-fit: fill;
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    // width: 800px;
+    // margin-left: auto;
+    // margin-right: auto;
     // text-align: left;
   }
 }
