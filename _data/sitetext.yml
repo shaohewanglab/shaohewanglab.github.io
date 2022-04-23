@@ -53,9 +53,9 @@ en: &DEFAULT_EN
           - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
             icon: ai ai-google-scholar
       - name: "[Join us!](#contact)"
-        degree:
-        image: assets/img/team/500x500.jpg
-        position:
+        # degree:
+        image: assets/img/team/You.jpg
+        # position:
 
   services:
     title: "Services"
