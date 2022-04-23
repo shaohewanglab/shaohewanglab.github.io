@@ -65,12 +65,67 @@ en: &DEFAULT_EN
     section: research
     closebutton: "Close"
 
+  publications:
+    title: "Selected Publications"
+    text: "See [Shaohe's Google Scholar](https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en) for a complete list"
+    preprints:
+      - ref:
+        url:
+        properties:
+          - icon:
+            name:
+          - icon:
+            name:
+          - icon:
+            name:
+        highlight:
+          - hl_ref:
+            hl_url:
+          - hl_ref:
+            hl_url:
+    research:
+      - ref:
+        url:
+        properties:
+          - icon:
+            name:
+          - icon:
+            name:
+          - icon:
+            name:
+        highlight:
+          - hl_ref:
+            hl_url:
+          - hl_ref:
+            hl_url:
+    review:
+      - ref:
+        url:
+        properties:
+          - icon:
+            name:
+          - icon:
+            name:
+          - icon:
+            name:
+        highlight:
+          - hl_ref:
+            hl_url:
+          - hl_ref:
+            hl_url:
+
+
   resources:
     title: "Resources"
-    text:
+    text: "The opposite of open science is not closed science. <br> It's broken science. <br> --- John Wilbanks"
     list:
-      - title:
-        desc: The opposite of open science is not closed science. It's broken science. <br> -- John Wilbanks
+      - url: https://snownontrace.github.io/
+        desc: Shaohe Wang Lab protocols.
+      - url: https://www.ibiology.org/online-biology-courses/microscopy-series/
+        desc: A great collection of lectures on microscopy by **iBiology**.
+        icon:
+      - url: https://www.ibiology.org/online-biology-courses/microscopy-series/
+        desc: A great collection of lectures on microscopy by **iBiology**.
 
 
   fun:
@@ -94,14 +149,20 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
         name: 2022-DC-cherry-blossom.jpeg
         description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
+      - image: assets/img/fun/2022-Washington-monument.jpg
+        name: 2022-Washington-monument.jpg
+        description: "The Washington monument."
     events_wide:
       - image: assets/img/fun/2022-DC-tidal-basin.jpeg
         name: 2022-DC-tidal-basin.jpeg
         description: "Overlook of the Jefferson Memorial across the tidal basin."
+      - image: assets/img/fun/2022-Selden-island.jpg
+        name: 2022-Selden-island.jpg
+        description: "Selden island in the winter."
 
   timeline:
     title: "Lab News"
-    text: "Our story"
+    text: "Our ongoing story!"
     section: timeline
     # left is the default
     #start_align: "left"
