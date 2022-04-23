@@ -61,7 +61,7 @@ en: &DEFAULT_EN
 
   research:
     title: "Research"
-    text: "Combining embryonic and reconstitution approaches to understand <br> how organs are built from cells and matrices."
+    text: "Combining embryonic and reconstitution approaches to <br> understand how organs are built."
     section: research
     closebutton: "Close"
 
