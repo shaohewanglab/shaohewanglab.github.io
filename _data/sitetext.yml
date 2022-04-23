@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Small group. Big science."
+    # text: "Small labs. Big science."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -52,35 +52,30 @@ en: &DEFAULT_EN
             icon: ai ai-orcid
           - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
             icon: ai ai-google-scholar
-      - name: "[Join us!](#contact)"
+      # - name: "[Join us!](#contact)"
+      - name: "Join us!"
         # degree:
         image: assets/img/team/You.jpg
+        section: contact
         # position:
-
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   research:
     title: "Research"
-    text: "Understanding by building."
+    text: "Combining embryonic and reconstitution approaches to understand <br> how organs are built from cells and matrices."
     section: research
     closebutton: "Close"
 
+  resources:
+    title: "Resources"
+    text:
+    list:
+      - title:
+        desc: The opposite of open science is not closed science. It's broken science. <br> -- John Wilbanks
+
+
   fun:
-    title: "Lab Fun"
-    text: "Memories of group events"
+    title: "Lab Fun!"
+    text: "Life isn't about waiting for the storm to pass. <br> It's about learning how to dance in the rain."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
