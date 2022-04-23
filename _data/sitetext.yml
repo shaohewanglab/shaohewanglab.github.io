@@ -29,14 +29,14 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/snownontrace
             icon: fab fa-twitter
-          - url: https://linkedin.com/in/shaohe-wang-87833513/
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com/in/shaohe-wang-87833513/
+          #   icon: fab fa-linkedin-in
           - url: https://github.com/snownontrace
-            icon: "fab fa-github"
+            icon: fab fa-github
           - url: https://orcid.org/0000-0001-9522-2359
-            icon: fab fa-orcid
-          - url: https://github.com/shaohewanglab
-            icon: "fab fa-github"
+            icon: ai ai-orcid
+          - url: https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en
+            icon: ai ai-google-scholar
       - name: "Di Wu"
         degree: Ph.D.
         position: "Research Scientist"
@@ -44,10 +44,14 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/Di62429874
             icon: fab fa-twitter
-          - url: https://linkedin.com/in/di-wu-68a78b104/
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com/in/di-wu-68a78b104/
+          #   icon: fab fa-linkedin-in
+          - url: https://github.com/Di-aswater
+            icon: fab fa-github
           - url: https://orcid.org/0000-0002-6241-2102
-            icon: fa-brands fa-orcid
+            icon: ai ai-orcid
+          - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
+            icon: ai ai-google-scholar
       - name: "You?"
         # role: "Join us!"
         image: assets/img/team/500x500.jpg
@@ -147,9 +151,11 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com/shaohewanglab
-        icon: "fab fa-twitter"
+        icon: fab fa-twitter
       - url: https://github.com/shaohewanglab
-        icon: "fab fa-github"
+        icon: fab fa-github
+      - url: mailto:shaohewanglab@gmail.com
+        icon: fa fa-envelope
 
 en-US:
   <<: *DEFAULT_EN
