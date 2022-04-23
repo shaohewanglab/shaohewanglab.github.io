@@ -39,7 +39,7 @@ en: &DEFAULT_EN
             icon: ai ai-google-scholar
       - name: "Di Wu"
         degree: Ph.D.
-        position: "Research Scientist"
+        position: "Research Scientist (incoming)"
         image: assets/img/team/Di_Wu.jpg
         social:
           - url: https://twitter.com/Di62429874
