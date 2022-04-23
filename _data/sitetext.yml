@@ -145,7 +145,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
     social:
       - url: https://twitter.com/shaohewanglab
         icon: fab fa-twitter
