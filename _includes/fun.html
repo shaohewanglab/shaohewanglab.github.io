@@ -9,12 +9,11 @@
     </div>
     <div class="row">
     {% for event in site.data.sitetext[site.locale].fun.events %}
-      <div class="col-sm-4">
-        <div class="fun-member">
-          <img class="mx-auto" src="{{ event.image }}" alt="{{ event.name }}">
+      <div class="col-md-4 col-sm-6">
+        <div class="fun-event">
+          <img class="img-fluid" src="{{ event.image }}" alt="{{ event.name }}">
           <h4>{{ event.name }}</h4>
-          <h5 class="text-muted"></h5>
-          <p class="text-muted">{{ event.description }}</p>
+          <p class="text-muted">{{ event.description | markdownify }}</p>
         </div>
       </div>
     {% endfor %}
