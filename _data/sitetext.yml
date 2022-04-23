@@ -70,6 +70,31 @@ en: &DEFAULT_EN
     section: research
     closebutton: "Close"
 
+  fun:
+    title: "Lab Fun"
+    text: "Memories of group events"
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: fun
+    events:
+      - name: "Shaohe Wang"
+        description: jpuicovjlkcmvk;fdk
+        image: assets/img/team/Shaohe_Wang.jpg
+      - name: "Shaohe Wang"
+        description: ldjflajdf'sadkf;dsaklf
+        image: assets/img/team/Di_Wu.jpg
+      - name: "Shaohe Wang"
+        description: jpuicovjlkcmvk;fdk
+        image: assets/img/team/Shaohe_Wang.jpg
+      - name: "Shaohe Wang"
+        description: ldjflajdf'sadkf;dsaklf
+        image: assets/img/team/Di_Wu.jpg
+      - name: "Shaohe Wang"
+        description: jpuicovjlkcmvk;fdk
+        image: assets/img/team/Shaohe_Wang.jpg
+      - name: "Shaohe Wang"
+        description: ldjflajdf'sadkf;dsaklf
+        image: assets/img/team/Di_Wu.jpg
+
   timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
