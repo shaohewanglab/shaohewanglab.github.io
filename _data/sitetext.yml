@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to our lab!
     text: Understanding by Building
-    button: Who We Are
-    buttonlink: "#team"
+    # button: Who We Are
+    # buttonlink: "#team"
 
   team:
     title: "OUR AMAZING TEAM"
@@ -79,9 +79,9 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
-      - name: "Event 1"
-        description: Some description for _event 1_!
-        image: assets/img/team/Shaohe_Wang.jpg
+      - name: "Di and Shaohe at NIH"
+        description: On the best day of cherry blossom in 2022!
+        image: assets/img/fun/2022-NIH-cherry-blossom.jpg
       - name: "Event 2"
         description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
         image: assets/img/team/Di_Wu.jpg
