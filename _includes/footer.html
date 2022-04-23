@@ -23,12 +23,20 @@
       </div>
       <!-- Legal -->
       <div class="col-md-4">
-        <ul class="list-inline quicklinks">
+        <ul class="list-inline affiliation">
+          {% for link in site.data.sitetext[site.locale].footer.affiliation %}
           <li class="list-inline-item">
-            <a href="https://www.janelia.org/">
-              <img src="/assets/img/logo/HHMI_Janelia_Logo-Black.png" alt="Janelia Logo">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.logo %}
+              <img src="{{ link.logo }}" alt="{{ link.name }}">
+              {% else %}
+              {{ link.name }}
+              {% endif %}
             </a>
+            {% endif %}
           </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
