@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       section: resources
     - title: "Fun"
       section: fun
-    - title: "Timeline"
+    - title: "News"
       section: timeline
     - title: "Contact"
       section: contact
