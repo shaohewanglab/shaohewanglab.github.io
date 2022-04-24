@@ -35,4 +35,6 @@ Add pages, documents, data, etc. like normal to test the theme's contents. As yo
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). However, images and videos added by the Shaohe Wang Lab should not be used unless explicit permission has been obtained from the author.
+This website uses the Agency Jekyll Theme under the [MIT License](https://opensource.org/licenses/MIT) - see LIBRARY-LICENSE.txt.
+Please feel free to use this repo as a template to make your own website.
+However, images and videos added by the Shaohe Wang Lab should not be used unless explicit permission has been obtained from the author.
