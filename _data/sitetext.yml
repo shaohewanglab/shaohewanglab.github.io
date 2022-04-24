@@ -56,7 +56,7 @@ en: &DEFAULT_EN
       - name: "Join us!"
         # degree:
         image: assets/img/team/You.jpg
-        section: contact
+        section: recruiting
         # position:
 
   research:
@@ -169,22 +169,28 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-NIH-cherry-blossom.jpg
         name: 2022-NIH-cherry-blossom.jpg
         description: Di and Shaohe at the NIH Bethesda campus on the best day of cherry blossom in 2022!
+      - image: assets/img/fun/2022-Shaohe-landscape.JPG
+        name: 2022-Shaohe-landscape.JPG
+        description: "Shaohe at the landscape building."
       - image: assets/img/fun/2022-Di-helix.JPG
         name: 2022-Di-helix.JPG
         description: Di at the **helix**.
       - image: assets/img/fun/2022-Shaohe-helix.JPG
         name: 2022-Shaohe-helix.JPG
         description: Shaohe at the **helix**.
-      - image: assets/img/fun/2022-Shaohe-landscape.JPG
-        name: 2022-Shaohe-landscape.JPG
-        description: "Shaohe at the landscape building."
       - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
         name: 2022-DC-cherry-blossom.jpeg
         description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
       - image: assets/img/fun/2022-Washington-monument.jpg
         name: 2022-Washington-monument.jpg
         description: "The Washington monument."
+      # - image: assets/img/fun/2022-Di-biou.jpeg
+      #   name: 2022-Di-biou.jpeg
+      #   description: "Di's awesome drawing of a dinosaur researcher."
     events_wide:
+      - image: assets/img/fun/2022-Di-biou-01.png
+        name: 2022-Di-biou-01.png
+        description: "Di's awesome drawing of a dinosaur researcher."
       - image: assets/img/fun/2022-DC-tidal-basin.jpeg
         name: 2022-DC-tidal-basin.jpeg
         description: "Overlook of the Jefferson Memorial across the tidal basin."
@@ -201,7 +207,7 @@ en: &DEFAULT_EN
     events:
       - title: "Lab opens!"
         year: "September 2022"
-        desc: "Our lab officially opens as part of [4DCP](https://4dcpjanelia.org/), the new exciting research area at HHMI Janelia!"
+        desc: "Our lab officially opens as part of [**4DCP**](https://4dcpjanelia.org/), the new exciting research area at HHMI Janelia!"
         image: assets/img/timeline/1.jpg
         alt:
       # - title: "Di joins the lab!"
@@ -209,34 +215,21 @@ en: &DEFAULT_EN
       #   desc: "Di joins the lab!"
       #   image: assets/img/timeline/2.jpg
       #   alt:
-      # - title: "Jekyll Theme is created"
-      #   year: "2019"
-      #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-      #   image: assets/img/timeline/3.jpg
-      #   alt: image alt text
-      # - title: "Title"
-      #   year: "2009-2011"
-      #   desc: "Your description here, **Markdown** is fully supported."
-      #   image: assets/img/timeline/4.jpg
-      #   alt:
       #   # you can enforce the alignment
       #   align: right
-    end: "We are recruiting! <br> Join us!"
+    end: yes
+    end_title: "We are recruiting!"
+    end_desc: "We are looking for a talented postdoc researcher to join our team. Please [**Email Shaohe**](mailto:shaohewanglab@gmail.com) with your CV, a brief description of your research interests, background and future career goals. Please provide contact information for three references or arrange for your references to send their letters directly to Shaohe."
+    end_image: assets/img/timeline/join-01.png
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    email: "shaohewanglab {at} gmail.com"
+    twitter_url: https://twitter.com/shaohewanglab
+    recruiting: "We are recruiting!"
+    message: ""
+
 
   footer:
     social:
