@@ -3,7 +3,7 @@ Shaohe Wang Lab Website
 Copyright (c) 2022 Shaohe Wang Lab
 
 This software uses the Agency Jekyll Theme under the MIT License (MIT) - see
-library-license.txt.
+LIBRARY-LICENSE.txt.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
