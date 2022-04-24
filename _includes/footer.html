@@ -1,5 +1,6 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: white">
+<!-- <footer class="footer" id="footer" style="background-color: white"> -->
+<footer class="footer" id="footer">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-4">
@@ -13,7 +14,7 @@
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
             {% if link.url %}
-            <a href="{{ link.url }}">
+            <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
               {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
             </a>
             {% endif %}
@@ -21,13 +22,13 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Legal -->
+      <!-- Affiliation -->
       <div class="col-md-4">
         <ul class="list-inline affiliation">
           {% for link in site.data.sitetext[site.locale].footer.affiliation %}
           <li class="list-inline-item">
             {% if link.url %}
-            <a href="{{ link.url }}">
+            <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
               {% if link.logo %}
               <img src="{{ link.logo }}" alt="{{ link.name }}">
               {% else %}
