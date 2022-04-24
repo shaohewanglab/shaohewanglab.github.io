@@ -1,4 +1,4 @@
-<!-- About -->
+<!-- Timeline -->
   <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].timeline.section | default: "about" }}">
     <div class="container">
       <div class="row">
@@ -45,11 +45,19 @@
 		  {% endfor %}
 
 		  {% if site.data.sitetext[site.locale].timeline.end %}
-			<li class="timeline-inverted">
+            <li id="recruiting" class="timeline-inverted">
               <div class="timeline-image">
-                <a class="js-scroll-trigger" href="#contact">
-                  <h4>{{ site.data.sitetext[site.locale].timeline.end}}</h4>
-                </a>
+                <img class="rounded-circle img-fluid" src="{{ site.data.sitetext[site.locale].timeline.end_image }}" alt="">
+                <!-- <h4>{{ site.data.sitetext[site.locale].timeline.end}}</h4> -->
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>{{ 'now' | date: "%b %d, %Y" | markdownify }}</h4>
+                  <h4 class="subheading">{{ site.data.sitetext[site.locale].timeline.end_title }}</h4>
+                </div>
+                <div class="timeline-body">
+                  <div class="text-muted">{{ site.data.sitetext[site.locale].timeline.end_desc | markdownify }}</div>
+                </div>
               </div>
             </li>
 		  {% endif %}
@@ -59,4 +67,4 @@
       </div>
     </div>
   </section>
-<!-- End About -->
+<!-- End Timeline -->
