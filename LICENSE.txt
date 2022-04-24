@@ -1,6 +1,12 @@
 The MIT License (MIT)
 
-Copyright (c) 2021 Ravi Riley
+Copyright (c) 2022 Shaohe Wang Lab
+
+This software uses the Agency Jekyll Theme under the MIT License (MIT) - see
+library-license.txt.
+
+We reserve all copy rights of images and videos that were modified or added
+from the Agency Jekyll Theme.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
