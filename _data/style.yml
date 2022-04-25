@@ -7,5 +7,7 @@ highlight: "#930084"
 # header-image: ""
 header-image: "../img/JRC-1.jpeg"
 contact-image: "../img/contact.png"
-#Font Awesome icon for portfolio grid when an item is hovered over
-#portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
+#Font Awesome icon for research grid when an item is hovered over
+research-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
+#Font Awesome icon for team member when an item is hovered over
+team-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
