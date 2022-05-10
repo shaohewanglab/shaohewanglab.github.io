@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     people:
       - name: "Shaohe Wang"
         degree: Ph.D.
-        position: "Group Leader"
+        position: "Group Leader (incoming)"
         image: assets/img/team/Shaohe_Wang.jpg
         social:
           - url: https://twitter.com/snownontrace
