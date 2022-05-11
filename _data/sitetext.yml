@@ -31,7 +31,7 @@ en: &DEFAULT_EN
 
   publications:
     title: "Selected Publications"
-    text: "See [Shaohe's Google Scholar](https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en) for a complete list"
+    text: See <a href="https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en" target="_blank">Shaohe's Google Scholar</a> for a complete list
     preprints:
       - ref:
         url:
@@ -171,7 +171,7 @@ en: &DEFAULT_EN
     events:
       - title: "Lab opens!"
         year: "September 2022"
-        desc: "Our lab is part of [**4D Cellular Physiology**](https://4dcpjanelia.org/), the new exciting research area at HHMI Janelia!"
+        desc: Our lab is part of <a href="https://4dcpjanelia.org" target="_blank">4D Cellular Physiology</a>, the new exciting research area at HHMI Janelia!
         image: assets/img/timeline/1.jpg
         alt:
       # - title: "Di joins the lab!"
@@ -183,7 +183,7 @@ en: &DEFAULT_EN
       #   align: right
     end: yes
     end_title: "We are recruiting!"
-    end_desc: "We are looking for a talented postdoc researcher to join our team. Please [**Email Shaohe**](mailto:shaohewanglab@gmail.com) with your CV, a brief description of your research interests, background and future career goals. Please provide contact information for three references or arrange for your references to send their letters directly to Shaohe."
+    end_desc: We are looking for a talented postdoc researcher to join our team. Please <a href="mailto:shaohewanglab@gmail.com" target="_blank">Email Shaohe</a> with your CV, a brief description of your research interests, background and future career goals. Please provide contact information for three references or arrange for your references to send their letters directly to Shaohe.
     end_image: assets/img/timeline/join-01.png
 
   contact:
