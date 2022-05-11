@@ -171,7 +171,7 @@ en: &DEFAULT_EN
     events:
       - title: "Lab opens!"
         year: "September 2022"
-        desc: "Our lab officially opens as part of [**4DCP**](https://4dcpjanelia.org/), the new exciting research area at HHMI Janelia!"
+        desc: "Our lab is part of [**4D Cellular Physiology**](https://4dcpjanelia.org/), the new exciting research area at HHMI Janelia!"
         image: assets/img/timeline/1.jpg
         alt:
       # - title: "Di joins the lab!"
@@ -207,6 +207,9 @@ en: &DEFAULT_EN
       - url: https://www.janelia.org
         name: HHMI Janelia
         logo: /assets/img/logo/HHMI_Janelia_Logo-Black.png
+      - url: https://4dcpjanelia.org
+        name: 4DCP
+        logo: /assets/img/logo/4DCP-text-01.png
 
 en-US:
   <<: *DEFAULT_EN
