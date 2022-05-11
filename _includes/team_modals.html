@@ -1,8 +1,8 @@
-<!-- Portfolio Modals -->
-{% for project in site.portfolio %}
+<!-- Team Modals -->
+{% for person in site.team %}
 <div
-  class="portfolio-modal modal fade"
-  id="p{{ forloop.index }}"
+  class="team-modal modal fade"
+  id="person{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
   aria-hidden="true"
@@ -18,23 +18,23 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
-              <!-- Project Details Go Here -->
-              <h2 class="text-uppercase">{{ project.title }}</h2>
-              <p class="item-intro text-muted">{{ project.subtitle }}</p>
+              <!-- Person Details Go Here -->
+              <h2 class="text-uppercase">{{ person.title }}</h2>
+              <p class="item-intro text-muted">{{ person.subtitle }}</p>
               <img
                 class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
+                src="{{ person.image }}"
+                alt="{{ person.alt }}"
               />
-              <p>{{ project.content }}</p>
+              <p>{{ person.content }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
                 type="button"
               >
                 <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close Project" }}
+                {{ site.data.sitetext[site.locale].team.closebutton |
+                default: "Close Profile" }}
               </button>
             </div>
           </div>
@@ -44,4 +44,4 @@
   </div>
 </div>
 {% endfor %}
-<!-- End Portfolio Modals -->
+<!-- End Team Modals -->
