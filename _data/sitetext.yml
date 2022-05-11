@@ -22,43 +22,6 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     closebutton: "Close Member"
-    people:
-      - name: "Shaohe Wang"
-        degree: Ph.D.
-        position: "Group Leader (incoming)"
-        image: assets/img/team/Shaohe_Wang.jpg
-        social:
-          - url: https://twitter.com/snownontrace
-            icon: fab fa-twitter
-          # - url: https://linkedin.com/in/shaohe-wang-87833513/
-          #   icon: fab fa-linkedin-in
-          - url: https://github.com/snownontrace
-            icon: fab fa-github
-          - url: https://orcid.org/0000-0001-9522-2359
-            icon: ai ai-orcid
-          - url: https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en
-            icon: ai ai-google-scholar
-      - name: "Di Wu"
-        degree: Ph.D.
-        position: "Research Scientist (incoming)"
-        image: assets/img/team/Di_Wu.jpg
-        social:
-          - url: https://twitter.com/Di62429874
-            icon: fab fa-twitter
-          # - url: https://linkedin.com/in/di-wu-68a78b104/
-          #   icon: fab fa-linkedin-in
-          - url: https://github.com/Di-aswater
-            icon: fab fa-github
-          - url: https://orcid.org/0000-0002-6241-2102
-            icon: ai ai-orcid
-          - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
-            icon: ai ai-google-scholar
-      # - name: "[Join us!](#contact)"
-      - name: "Join us!"
-        # degree:
-        image: assets/img/team/You.jpg
-        section: recruiting
-        # position:
 
   research:
     title: "Research"
