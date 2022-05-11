@@ -7,3 +7,5 @@ _site
 Gemfile.lock
 unused
 bootstrap-reference.html
+*checkpoint.ipynb
+*checkpoint.py
