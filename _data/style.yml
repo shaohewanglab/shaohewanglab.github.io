@@ -4,8 +4,8 @@ highlight: "#930084"
 #black: "#000"
 
 #Image Customization
-# header-image: ""
 header-image: "../img/JRC-1.jpeg"
+# header-image: "../img/trailer.gif"
 contact-image: "../img/contact.png"
 #Font Awesome icon for research grid when an item is hovered over
 research-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
