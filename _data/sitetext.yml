@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our lab!
-    text: Understanding by Building
+    title: ""
+    text: ""
     # button: Who We Are
     # buttonlink: "#team"
 
