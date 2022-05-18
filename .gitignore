@@ -9,3 +9,4 @@ unused
 bootstrap-reference.html
 *checkpoint.ipynb
 *checkpoint.py
+.ipynb_checkpoints/
