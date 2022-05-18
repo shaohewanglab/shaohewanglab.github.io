@@ -31,52 +31,7 @@ en: &DEFAULT_EN
 
   publications:
     title: "Selected Publications"
-    text: See <a href="https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en" target="_blank">Shaohe's Google Scholar</a> for a complete list
-    preprints:
-      - ref:
-        url:
-        properties:
-          - icon:
-            name:
-          - icon:
-            name:
-          - icon:
-            name:
-        highlight:
-          - hl_ref:
-            hl_url:
-          - hl_ref:
-            hl_url:
-    research:
-      - ref:
-        url:
-        properties:
-          - icon:
-            name:
-          - icon:
-            name:
-          - icon:
-            name:
-        highlight:
-          - hl_ref:
-            hl_url:
-          - hl_ref:
-            hl_url:
-    review:
-      - ref:
-        url:
-        properties:
-          - icon:
-            name:
-          - icon:
-            name:
-          - icon:
-            name:
-        highlight:
-          - hl_ref:
-            hl_url:
-          - hl_ref:
-            hl_url:
+    text: See <a href="https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en" target="_blank">Shaohe's Google Scholar</a> for a complete list<br><sup>*</sup>co-first, <sup>#</sup>co-corresponding
 
 
   resources:
