@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Team"
-      section: team
     - title: "Research"
       section: research
+    - title: "Team"
+      section: team
     - title: "Publications"
       section: publications
     - title: "Resources"
