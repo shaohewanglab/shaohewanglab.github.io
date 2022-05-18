@@ -1,8 +1,8 @@
 ---
 caption: #what displays on the main page:
-  name: "Shaohe Wang"
+  name: Shaohe Wang
   degree: Ph.D.
-  position: "Group Leader (incoming)"
+  position: Group Leader (incoming)
   image: assets/img/team/Shaohe_Wang.jpg
   social:
     - url: https://twitter.com/snownontrace
@@ -18,16 +18,24 @@ caption: #what displays on the main page:
 
 #what displays when the item is clicked:
 title: Shaohe Wang
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Group Leader (incoming)
 image: assets/img/team/Shaohe_Wang.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Shaohe Wang picture
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
 
 {:.list-inline}
-- Date:
-- Client:
-- Category:
+- Pronouns: He/Him
+
+Shaohe received his B.S. from Tsinghua University, and Ph.D. from University of California San Diego.
+Outside the lab, Shaohe enjoys photography and reading the *One Piece* manga!
+
+Shaohe is a certified [Carpentry instructor](https://datacarpentry.org/).
+
+**Selected Awards & Honors**
+
+{:.list-inline}
+- 2020 NIH Fellows Award for Research Excellence
+- 2020 NIH Developmental Biology Special Interest Group Award
+- 2019 NIDCR Distinguished Staff Award
+- 2008 Outstanding Graduates, Tsinghua University

@@ -5,16 +5,10 @@ caption: #what displays on the main page:
   position:
   image: assets/img/team/Join_us.jpg
 
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/team/Di_Wu.jpg
-alt: Di Wu picture
+title: We are recruiting!
+subtitle: Join us to work at the amazing Janelia Research Campus!
+image: assets/img/JRC-4.jpeg
+alt: Janelia Research Campus image
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+We are looking for a talented postdoc researcher to join our team. Please <a href="mailto:shaohewanglab@gmail.com" target="_blank">Email Shaohe</a> with your CV, a brief description of your research interests, background and future career goals. Please provide contact information for three references or arrange for your references to send their letters directly to Shaohe.

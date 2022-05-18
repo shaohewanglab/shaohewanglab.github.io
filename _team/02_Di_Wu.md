@@ -1,8 +1,8 @@
 ---
 caption: #what displays on the main page:
-  name: "Di Wu"
+  name: Di Wu
   degree: Ph.D.
-  position: "Research Scientist (incoming)"
+  position: Research Scientist (incoming)
   image: assets/img/team/Di_Wu.jpg
   social:
     - url: https://twitter.com/Di62429874
@@ -16,16 +16,16 @@ caption: #what displays on the main page:
     - url: https://scholar.google.com/citations?user=NxyxQeQAAAAJ&hl=en
       icon: ai ai-google-scholar
 
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Di Wu
+subtitle: Research Scientist (incoming)
 image: assets/img/team/Di_Wu.jpg
 alt: Di Wu picture
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
 {:.list-inline}
+- Pronouns: She/Her
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+Di received her B.S. and Ph.D. from Tsinghua University, where she used the zebrafish model to study the role of DNA methylation in early development in Dr. Anming Meng's lab.
+After graduation, Di spent a few months in Dr. Karen Oegema's lab at the University of California San Diego, where she used *C. elegans* to study microtubule organization, centriole duplication and centrosome maturation.
+For postdoctoral training, Di joined Dr. Jurrien Dean's lab at NIDDK, NIH, where she ...
+Outside the lab, Di enjoys drawing cartoons and playing guitar!
