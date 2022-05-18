@@ -44,7 +44,7 @@ en: &DEFAULT_EN
         icon: fas fa-list
       - url: https://www.ibiology.org/online-biology-courses/microscopy-series/
         title: Microscopy
-        desc: A great collection of lectures on microscopy by iBiology.
+        desc: A great collection of microscopy lectures by iBiology.
         icon: fas fa-microscope
       - url: https://swcarpentry.github.io/git-novice/
         title: Git
@@ -70,11 +70,11 @@ en: &DEFAULT_EN
         title: Presentation
         desc: How to give a scientific talk on iBiology.
         icon: fas fa-chalkboard-teacher
-      # - url: ""#home"
+      # - url: "#home"
       #   title: Lab Blog
       #   desc: Coming soon!
       #   icon: fas fa-blog
-      # - url: ""#home"
+      # - url: "#home"
       #   title: Good Readings
       #   desc: Coming soon!
       #   icon: fas fa-book-open
