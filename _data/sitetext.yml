@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   publications:
-    title: "Selected Publications"
+    title: "Select Publications"
     text: See <a href="https://scholar.google.com/citations?user=R_-kJV4AAAAJ&hl=en" target="_blank">Shaohe's Google Scholar</a> for a complete list<br><sup>*</sup>co-first, <sup>#</sup>co-corresponding
 
 
