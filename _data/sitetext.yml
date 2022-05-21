@@ -25,7 +25,7 @@ en: &DEFAULT_EN
 
   research:
     title: "Research"
-    text: "Combining embryonic and reconstitution approaches to <br> understand how organs are built."
+    text: "Understanding by Building"
     section: research
     closebutton: "Close"
 
@@ -138,7 +138,7 @@ en: &DEFAULT_EN
       #   align: right
     end: yes
     end_title: "We are recruiting!"
-    end_desc: We are looking for a talented postdoc researcher to join our team. Please <a href="mailto:shaohewanglab@gmail.com" target="_blank">Email Shaohe</a> with your CV, a brief description of your research interests, background and future career goals. Please provide contact information for three references or arrange for your references to send their letters directly to Shaohe.
+    end_desc: See <a href="#team">TEAM -> Join us!</a> for details.
     end_image: assets/img/timeline/join-01.png
 
   contact:
@@ -146,8 +146,6 @@ en: &DEFAULT_EN
     section: contact
     email: "shaohewanglab {at} gmail.com"
     twitter_url: https://twitter.com/shaohewanglab
-    recruiting: "We are recruiting!"
-    message: ""
 
 
   footer:
