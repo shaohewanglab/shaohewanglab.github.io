@@ -8,7 +8,9 @@ header.masthead {
   background-position: center center;
   background-size: cover;
   // background-size: contain;
-  height: 960px;
+  // height: 960px;
+  height: 100vh;
+  // width: 100%
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
