@@ -4,6 +4,7 @@ caption: #what displays on the main page:
   degree: Ph.D.
   position: Group Leader (incoming)
   image: assets/img/team/Shaohe_Wang.jpg
+  pronouns: "Pronouns: He/Him"
   social:
     - url: https://twitter.com/snownontrace
       icon: fab fa-twitter
@@ -23,9 +24,6 @@ image: assets/img/team/Shaohe_Wang.jpg #main image, can be a link or a file in a
 alt: Shaohe Wang picture
 
 ---
-
-{:.list-inline}
-- Pronouns: He/Him
 
 Shaohe received his B.S. from Tsinghua University, and Ph.D. from University of California San Diego.
 Outside the lab, Shaohe enjoys photography and reading the *One Piece* manga!

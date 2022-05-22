@@ -4,6 +4,7 @@ caption: #what displays on the main page:
   degree: Ph.D.
   position: Research Scientist (incoming)
   image: assets/img/team/Di_Wu.jpg
+  pronouns: "Pronouns: She/Her"
   social:
     - url: https://twitter.com/Di62429874
       icon: fab fa-twitter
@@ -21,9 +22,6 @@ subtitle: Research Scientist (incoming)
 image: assets/img/team/Di_Wu.jpg
 alt: Di Wu picture
 ---
-
-{:.list-inline}
-- Pronouns: She/Her
 
 Di received her B.S. and Ph.D. from Tsinghua University, where she used the zebrafish model to study the role of DNA methylation in early development in Dr. Anming Meng's lab.
 After graduation, Di spent a few months in Dr. Karen Oegema's lab at the University of California San Diego, where she used *C. elegans* to study microtubule organization, centriole duplication and centrosome maturation.

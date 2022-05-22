@@ -7,7 +7,7 @@ caption: #what displays on the main page:
 
 title: We are recruiting!
 subtitle: Join us to work at the amazing Janelia Research Campus!
-image: assets/img/JRC-4.jpeg
+image: assets/img/JRC/JRC-4.jpeg
 alt: Janelia Research Campus image
 ---
 

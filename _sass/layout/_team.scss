@@ -57,9 +57,13 @@
       }
       p {
         font-size: 16px;
-        margin-bottom: 15px;
+        margin-bottom: auto;
         // font-style: italic;
         // @include serif-font;
+      }
+      ul.list-inline {
+        margin-top: 15px;
+        margin-bottom: 30px;
       }
     }
   }
