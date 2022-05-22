@@ -19,7 +19,7 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Person Details Go Here -->
-              <h2 class="text-uppercase">{{ person.title }}</h2>
+              <h2>{{ person.title }}</h2>
               <p class="item-intro text-muted">{{ person.subtitle }}</p>
               <img
                 class="img-fluid d-block mx-auto"
@@ -34,7 +34,7 @@
               >
                 <i class="fas fa-times"></i>
                 {{ site.data.sitetext[site.locale].team.closebutton |
-                default: "Close Profile" }}
+                default: "Close" }}
               </button>
             </div>
           </div>
