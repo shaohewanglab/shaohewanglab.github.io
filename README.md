@@ -12,7 +12,7 @@ To set up your environment to develop this theme, clone this repo or your fork.
 
 ```sh
 $ git clone https://github.com/shaohewanglab/shaohewanglab.github.io
-$ cd agency-jekyll-theme
+$ cd shaohewanglab.github.io
 ```
 
 Then run:
