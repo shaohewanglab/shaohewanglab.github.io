@@ -1,16 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-thumbnail.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: Cell dynamics
+  subtitle: How do cells move against other cells?
+  thumbnail: assets/img/research/intra-epithelium-cell-motility.gif
 
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+#what displays when the item is clicked:
+title: Cell dynamics
+subtitle: How do cells move against other cells?
+image: assets/img/research/intra-epithelium-cell-motility.gif
+alt: cell motility movies
+
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Cells can move against matrices or other cells.
 
 {:.list-inline}
 

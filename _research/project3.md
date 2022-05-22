@@ -1,22 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
+  title: Matrix dynamics
+  subtitle: How do cells control when to make and where to put out matrices?
+  thumbnail: assets/img/research/mSL-Rab6a.gif
+
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Matrix dynamics
+subtitle: How do cells control when to make and where to put out matrices?
+image: assets/img/research/mSL-Rab6a.gif #main image, can be a link or a file in assets/img/portfolio
+alt: secretion movie
 
 ---
 Use this area to describe your project. **Markdown** supported.
 
 optional info list (delete if not using):
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-
+{:.list-inline}
+- Date:
+- Client:
+- Category:
