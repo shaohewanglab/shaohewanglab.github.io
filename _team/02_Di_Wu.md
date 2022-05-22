@@ -26,4 +26,4 @@ alt: Di Wu picture
 Di received her B.S. and Ph.D. from Tsinghua University, where she used the zebrafish model to study the role of DNA methylation in early development in Dr. Anming Meng's lab.
 After graduation, Di spent a few months in Dr. Karen Oegema's lab at the University of California San Diego, where she used *C. elegans* to study microtubule organization, centriole duplication and centrosome maturation.
 For postdoctoral training, Di joined Dr. Jurrien Dean's lab at NIDDK, NIH, where she ...
-Outside the lab, Di enjoys drawing cartoons and playing guitar!
+Outside the lab, Di enjoys hiking and drawing!
