@@ -27,6 +27,9 @@ en: &DEFAULT_EN
     title: "Research"
     text: "Understanding by Building"
     section: research
+    summary_1: "Through coordinated tissue morphogenesis and cell specialization, organ development generates complex structures tailored for diverse physiological functions. Fascinating examples include elaborated tree-like hierarchical structures, such as those found in lungs, kidneys, and various glands, where numerous end buds specialized for air exchange, blood filtration, or secretion are connected to a single outlet by a hierarchical ductal system. The mature branched structure arises from a single epithelial bud at the embryonic stage through branching morphogenesis, which requires the dynamic interplay between cells and the extracellular matrix. We are only beginning to understand the principles of branching morphogenesis and other processes in organ development, which will be crucial for developing gene, cell, and tissue engineering-based therapies for defective organs."
+    summary_2: "We combine embryonic and reconstitution approaches to discover principles of organ development. We employ *live imaging*, *sequencing*, and *genetic perturbations* to probe native organ development, primarily using (but not limited to) the mouse salivary gland as a versatile model. Driven by the \"understanding by building\" philosophy, we always try to reconstitute key biological processes from neutral building blocks. Whenever applicable, we use mathematical or physical modeling to theorize our findings. We aspire to pave the way of buidling customizable organs from the bottom up."
+    summary_end: "*Click on the movies to learn more:*"
     closebutton: "Close"
 
   publications:
