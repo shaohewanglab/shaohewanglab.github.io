@@ -148,7 +148,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     section: contact
     email: "shaohewanglab {at} gmail.com"
-    twitter_url: https://twitter.com/shaohewanglab
+    twitter_url: https://twitter.com/snownontrace
 
 
   footer:
