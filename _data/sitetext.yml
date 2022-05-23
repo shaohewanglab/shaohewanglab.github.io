@@ -153,7 +153,7 @@ en: &DEFAULT_EN
 
   footer:
     social:
-      - url: https://twitter.com/shaohewanglab
+      - url: https://twitter.com/snownontrace
         icon: fab fa-twitter
       - url: https://github.com/shaohewanglab
         icon: fab fa-github
