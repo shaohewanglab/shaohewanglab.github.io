@@ -39,6 +39,13 @@
     }
   }
 }
+@media screen and (max-width: 780px) {
+  #mainNav {
+    .navbar-brand {
+      font-size: 100%;
+    }
+  }
+}
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 25px;
