@@ -96,10 +96,10 @@ en: &DEFAULT_EN
         description: "Shaohe at the landscape building."
       - image: assets/img/fun/2022-Di-helix.JPG
         name: 2022-Di-helix.JPG
-        description: Di at the **helix**.
+        description: Di at the helix.
       - image: assets/img/fun/2022-Shaohe-helix.JPG
         name: 2022-Shaohe-helix.JPG
-        description: Shaohe at the **helix**.
+        description: Shaohe at the helix.
       - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
         name: 2022-DC-cherry-blossom.jpeg
         description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
