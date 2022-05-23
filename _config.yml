@@ -28,7 +28,8 @@ author     : Shaohe Wang Lab
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: 316342422 #Google Analytics tracking code here
+  google: G-Z20RPVV8DC
+  # google: 316342422 #Google Analytics tracking code here
 
 collections:
   research:
