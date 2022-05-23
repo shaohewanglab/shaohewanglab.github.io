@@ -148,12 +148,12 @@ en: &DEFAULT_EN
     title: "Contact Us"
     section: contact
     email: "shaohewanglab {at} gmail.com"
-    twitter_url: https://twitter.com/snownontrace
+    twitter_url: https://twitter.com/shaohewanglab
 
 
   footer:
     social:
-      - url: https://twitter.com/snownontrace
+      - url: https://twitter.com/shaohewanglab
         icon: fab fa-twitter
       - url: https://github.com/shaohewanglab
         icon: fab fa-github
