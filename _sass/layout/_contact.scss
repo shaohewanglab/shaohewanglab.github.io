@@ -10,9 +10,9 @@ section#contact {
 }
 
 @media screen and (max-width: 780px) {
-    .map_iframe {
+    iframe {
         max-width: 100% !important;
-        // width: auto !important;
-        // height: auto !important;
+        width: auto !important;
+        height: auto !important;
     }
 }
