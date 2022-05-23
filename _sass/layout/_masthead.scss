@@ -41,7 +41,7 @@ header.masthead {
   }
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (min-width: 540px) and (max-width: 780px) { // tablet
   header.masthead {
     // width: 100vw;
     height: 40vh;
