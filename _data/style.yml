@@ -5,7 +5,7 @@ highlight: "#930084"
 
 #Image Customization
 # header-image: "../img/JRC/JRC-1.jpeg"
-header-image: "../img/Lab-website-header.gif"
+header-image: "../img/Lab-website-header-short.gif"
 contact-image: "../img/contact.png"
 #Font Awesome icon for research grid when an item is hovered over
 research-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
