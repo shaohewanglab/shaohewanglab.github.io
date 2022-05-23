@@ -10,6 +10,8 @@ header.masthead {
   // background-size: contain;
   // height: 960px;
   height: 100vh;
+  // max-width: 100vw;
+  // max-height: 100vh;
   // width: 100%
   .intro-text {
     padding-top: 150px;
@@ -30,6 +32,15 @@ header.masthead {
     }
   }
 }
+
+@media screen and (max-width: 768px) {
+  header.masthead {
+    width: 100vw;
+    // max-width: 100vw;
+    // max-height: 100vh;
+  }
+}
+
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
