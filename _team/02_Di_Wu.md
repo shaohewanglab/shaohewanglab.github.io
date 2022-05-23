@@ -29,3 +29,6 @@ After graduation, Di spent a few months in Dr. Karen Oegema's lab at the Univers
 For postdoctoral training, Di joined Dr. Jurrien Dean's lab at the NIH, where she studied the role of RNA degradation in mouse oocyte development.
 
 Outside the lab, Di enjoys hiking and drawing!
+
+**Selected Awards**
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;NIDDK Nancy Nossal Fellowship Award
