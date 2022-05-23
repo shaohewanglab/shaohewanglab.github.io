@@ -4,6 +4,7 @@
   text-align: center;
   width: 400px;
   max-width: 40vw;
+  // max-height: 300px;
   margin-left: auto;
   margin-right: auto;
   img {
@@ -26,6 +27,28 @@
   }
 }
 
+@media screen and (max-width: 540px) { // Cell phones
+  .fun-event {
+    max-width: 80vw;
+    margin-left: 0;
+    img {
+      height: auto;
+      object-fit: contain;
+    }
+  }
+}
+
+@media screen and (min-width: 540px) and (max-width: 780px) { // tablet
+  .fun-event {
+    max-width: 40vw;
+    margin-left: 0 auto;
+  }
+  img {
+    height: auto;
+    object-fit: contain;
+  }
+}
+
 .fun-event-wide {
   margin-bottom: 50px;
   text-align: center;
@@ -35,7 +58,7 @@
   margin-right: 0 auto;
   img {
     // width: 800px;
-    height: 300px;
+    // height: 300px;
     // border: 7px solid fade-out($black, 0.9);
     object-fit: contain;
     // object-fit: fill;
