@@ -3,7 +3,7 @@ caption: #what displays on the main page:
   name: Di Wu
   degree: Ph.D.
   position: Research Scientist (incoming)
-  image: assets/img/team/Di_Wu_v2.jpg
+  image: assets/img/team/Di_Wu_v3.jpg
   pronouns: "Pronouns: She/Her"
   social:
     - url: https://twitter.com/Di62429874
@@ -19,7 +19,7 @@ caption: #what displays on the main page:
 
 title: Di Wu
 subtitle: Research Scientist (incoming)
-image: assets/img/team/Di_Wu_larger.jpg
+image: assets/img/team/Di_Wu_v3_larger.jpg
 alt: Di Wu picture
 ---
 
