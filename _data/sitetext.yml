@@ -138,7 +138,7 @@ en: &DEFAULT_EN
       #   align: right
     end: yes
     end_title: "We are recruiting!"
-    end_desc: See <a class="js-scroll-trigger" href="#team">TEAM -> Join us!</a> for details.
+    end_desc: See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
     end_image: assets/img/timeline/join-01.png
 
   contact:
