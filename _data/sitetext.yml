@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         icon: fas fa-table
       - url: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C
         title: Linear Algebra
-        desc: MIT Open Course on Linear Algebra by Prof. Gilbert Strang
+        desc: MIT Open Course on Linear Algebra by Prof. Gilbert Strang.
         icon: fas fa-infinity
       - url: https://www.ibiology.org/professional-development/scientific-presentations/
         title: Presentation
