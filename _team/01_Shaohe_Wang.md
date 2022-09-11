@@ -2,7 +2,7 @@
 caption: #what displays on the main page:
   name: Shaohe Wang
   degree: Ph.D.
-  position: Group Leader (incoming)
+  position: Group Leader
   image: assets/img/team/Shaohe_Wang.jpg
   pronouns: "Pronouns: He/Him"
   social:
@@ -19,7 +19,7 @@ caption: #what displays on the main page:
 
 #what displays when the item is clicked:
 title: Shaohe Wang
-subtitle: Group Leader (incoming)
+subtitle: Group Leader
 image: assets/img/team/Shaohe_Wang.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Shaohe Wang picture
 
