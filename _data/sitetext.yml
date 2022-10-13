@@ -137,7 +137,7 @@ en: &DEFAULT_EN
       #   # you can enforce the alignment
       #   align: right
     end: yes
-    end_title: "We are recruiting!"
+    end_title: "Opportunities for Undergraduate Scholar and Visisting Scientists!"
     end_desc: See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
     end_image: assets/img/timeline/join-01.png
 

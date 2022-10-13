@@ -1,7 +1,7 @@
 ---
 caption: #what displays on the main page:
   name: You?
-  degree: We are recruiting!
+  degree: Come work with us!
   position: Visiting Scientist
   image: assets/img/team/prospective_visiting_scientist-01.png
 
