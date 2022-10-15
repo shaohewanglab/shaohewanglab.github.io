@@ -6,14 +6,14 @@ caption: #what displays on the main page:
   image: assets/img/team/Angelo_Morales.jpg
   pronouns: "Pronouns: He/Him"
   social:
-    # - url: https://twitter.com/?
-    #   icon: fab fa-twitter
+    - url: https://twitter.com/eangelomorales
+      icon: fab fa-twitter
     # - url: https://github.com/?
     #   icon: fab fa-github
-    # - url: https://orcid.org/?
-    #   icon: ai ai-orcid
-    # - url: https://scholar.google.com/citations?user=?=en
-    #   icon: ai ai-google-scholar
+    - url: https://orcid.org/0000-0002-8977-5923
+      icon: ai ai-orcid
+    - url: https://scholar.google.com/citations?user=lH0Xx5AAAAAJ&hl=en
+      icon: ai ai-google-scholar
 
 #what displays when the item is clicked:
 title: Angelo Morales
