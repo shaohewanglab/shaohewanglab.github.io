@@ -2,7 +2,7 @@
 caption: #what displays on the main page:
   name: Angelo Morales
   degree: Ph.D. (c)
-  position: Postdoc Associate
+  position: Postdoc Associate (incoming)
   image: assets/img/team/Angelo_Morales.jpg
   pronouns: "Pronouns: He/Him"
   social:
@@ -17,7 +17,7 @@ caption: #what displays on the main page:
 
 #what displays when the item is clicked:
 title: Angelo Morales
-subtitle: Postdoc Associate
+subtitle: Postdoc Associate (incoming)
 image: assets/img/team/Angelo_Morales.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Angelo Morales picture
 
