@@ -3,7 +3,7 @@ caption: #what displays on the main page:
   name: You?
   degree: Come work with us!
   position: Undergraduate Scholar
-  image: assets/img/team/prospective_undergrad_postbac-01.png
+  image: assets/img/team/prospective_undergrad.png
 
 title: Prospective Undergraduate Scholar
 subtitle: Join us to dive deep in research at the amazing Janelia Research Campus!
