@@ -88,18 +88,18 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
-      - image: assets/img/fun/2022-NIH-cherry-blossom.jpg
-        name: 2022-NIH-cherry-blossom.jpg
-        description: Di and Shaohe at the NIH Bethesda campus on the best day of cherry blossom in 2022!
-      - image: assets/img/fun/2022-Shaohe-landscape.JPG
-        name: 2022-Shaohe-landscape.JPG
-        description: "Shaohe at the landscape building."
-      # - image: assets/img/fun/2022-Di-helix.JPG
-      #   name: 2022-Di-helix.JPG
-      #   description: Di at the helix.
-      # - image: assets/img/fun/2022-Shaohe-helix.JPG
-      #   name: 2022-Shaohe-helix.JPG
-      #   description: Shaohe at the helix.
+      - image: assets/img/fun/2022-empty-lab.JPG
+        name: 2022-empty-lab.JPG
+        description: Empty lab space on the first day!
+      - image: assets/img/fun/2022-filled-lab.JPG
+        name: 2022-filled-lab.JPG
+        description: Filled lab space after one month!
+      - image: assets/img/fun/2022-JRC-roof.JPG
+        name: 2022-JRC-roof.JPG
+        description: Beautiful scene on the campus.
+      - image: assets/img/fun/2022-JRC-morning-001.JPG
+        name: 2022-JRC-morning-001.JPG
+        description: Good morning JRC!
       - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
         name: 2022-DC-cherry-blossom.jpeg
         description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
@@ -113,9 +113,9 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-DC-tidal-basin.jpeg
         name: 2022-DC-tidal-basin.jpeg
         description: "Overlook of the Jefferson Memorial across the tidal basin."
-      - image: assets/img/fun/2022-Selden-island.jpg
-        name: 2022-Selden-island.jpg
-        description: "Selden island in the winter."
+      # - image: assets/img/fun/2022-Selden-island.jpg
+      #   name: 2022-Selden-island.jpg
+      #   description: "Selden island in the winter."
 
   timeline:
     title: "Lab News"
@@ -130,14 +130,14 @@ en: &DEFAULT_EN
         image: assets/img/timeline/Empty_lab.jpg
         alt:
       - title: "Angelo decides to join the lab!"
-        year: "November 2011"
+        year: "October 2022"
         desc: Angelo is a Ph.D. student in <a href="https://lab.vanderbilt.edu/tyska-lab/" target="_blank">Dr. Matt Tyska’s lab</a> at Vanderbilt University. He will be joining our lab as a postdoc in the spring of 2023!
         image: assets/img/timeline/JRC_morning_002.jpg
       #   alt:
       #   # you can enforce the alignment
       #   align: right
       # - title: "Di joins the lab!"
-      #   year: "November 2011"
+      #   year: "November 2022"
       #   desc: "Di joins the lab!"
       #   image: assets/img/timeline/2.jpg
       #   alt:
