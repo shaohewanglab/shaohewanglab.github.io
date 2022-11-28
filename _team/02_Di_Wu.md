@@ -2,7 +2,7 @@
 caption: #what displays on the main page:
   name: Di Wu
   degree: Ph.D.
-  position: Research Scientist (incoming)
+  position: Research Scientist
   image: assets/img/team/Di_Wu_v3.jpg
   pronouns: "Pronouns: She/Her"
   social:
@@ -18,7 +18,7 @@ caption: #what displays on the main page:
       icon: ai ai-google-scholar
 
 title: Di Wu
-subtitle: Research Scientist (incoming)
+subtitle: Research Scientist
 image: assets/img/team/Di_Wu_v3_larger.jpg
 alt: Di Wu picture
 ---
@@ -27,6 +27,7 @@ Di received her B.S. (2008) and Ph.D. (2014) in Biological Sciences from Tsinghu
 During her Ph.D., Di used the zebrafish model to study the role of DNA methylation in early development in Dr. Anming Meng's lab.
 After graduation, Di spent a few months in Dr. Karen Oegema's lab at the University of California San Diego, where she used *C. elegans* to study microtubule organization, centriole duplication and centrosome maturation.
 For postdoctoral training, Di joined Dr. Jurrien Dean's lab at the NIH, where she studied the role of RNA degradation in mouse oocyte development.
+Di joined the lab as a Research Scientist on November 28, 2022.
 
 Outside the lab, Di enjoys hiking and drawing!
 
