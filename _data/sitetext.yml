@@ -138,7 +138,7 @@ en: &DEFAULT_EN
       #   align: right
       - title: "Di joins the lab!"
         year: "November 2022"
-        desc: "Di joins the lab!"
+        desc: "Di recently finished her postdoc in Jurrien Dean’s lab at the NIH."
         image: assets/img/timeline/1.jpg
       #   alt:
       #   # you can enforce the alignment
