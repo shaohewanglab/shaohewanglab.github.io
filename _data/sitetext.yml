@@ -151,7 +151,8 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     section: contact
-    email: "shaohewanglab {at} gmail.com"
+    # email: "shaohewanglab {at} gmail.com"
+    email: "wangs6 {at} janelia.hhmi.org"
     twitter_url: https://twitter.com/shaohewanglab
 
 
@@ -161,7 +162,8 @@ en: &DEFAULT_EN
         icon: fab fa-twitter
       - url: https://github.com/shaohewanglab
         icon: fab fa-github
-      - url: mailto:shaohewanglab@gmail.com
+      # - url: mailto:shaohewanglab@gmail.com
+      - url: mailto:wangs6@janelia.hhmi.org
         icon: fa fa-envelope
     affiliation:
       - url: https://www.janelia.org

@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Shaohe Wang Lab
-email      : shaohewanglabl@gmail.com #this is also the email contact forms will go to
+email      : wangs6@janelia.hhmi.org #this is also the email contact forms will go to
 description: "Lab website of Shaohe Wang's lab at HHMI Janelia."
 author     : Shaohe Wang Lab
 # logo:     #optional, defaults to site title
