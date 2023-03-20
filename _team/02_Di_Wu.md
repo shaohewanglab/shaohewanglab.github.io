@@ -31,5 +31,6 @@ Di joined the lab as a Research Scientist on November 28, 2022.
 
 Outside the lab, Di enjoys hiking and drawing!
 
-**Selected Awards**
+##### Selected Awards
+
 - 2018&nbsp;&nbsp;&nbsp;&nbsp;NIDDK Nancy Nossal Fellowship Award
