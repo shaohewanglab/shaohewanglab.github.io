@@ -32,7 +32,8 @@ In 2022, Shaohe joined the HHMI Janelia as a Group Leader in the <a href="https:
 
 Outside the lab, Shaohe enjoys photography, jogging, listening to podcasts, and reading the *One Piece* manga! Shaohe is also a certified instructor of the <a href="https://datacarpentry.org" target="_blank">Data Carpentry</a>, which is a volunteer-based community that develops and teaches workshops on the fundamental data skills needed to conduct research.
 
-**Selected Awards**
+### Selected Awards
+
 - 2020&nbsp;&nbsp;&nbsp;&nbsp;NIH Fellows Award for Research Excellence
 - 2020&nbsp;&nbsp;&nbsp;&nbsp;NIH Developmental Biology Special Interest Group Award
 - 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NIDCR Distinguished Staff Award (*"for his willingness to share his scientific knowledge, ability and patience in teaching others, and for his willingness to volunteer time for the betterment of the Division of Intramural Research"*)
