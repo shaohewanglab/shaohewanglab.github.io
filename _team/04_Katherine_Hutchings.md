@@ -25,6 +25,6 @@ alt: Katherine Hutchings picture
 
 ---
 
-Katherine is a third year undergraduate student studying Cell Biology at University College London. She is particularly interested in how tissues and organs consistently form the correct size and shape. She is completing her final year project in Professor Yanlan Mao’s lab, which focuses on mechanobiology and tissue morphogenesis. Katherine is excited to bring these skills to Janelia.
+Katherine is a third year undergraduate student studying Cell Biology at University College London. She is particularly interested in how tissues and organs consistently form the correct size and shape. She is completing her final year project in <a href="https://www.ucl.ac.uk/lmcb/users/yanlan-mao" target="_blank">Professor Yanlan Mao’s lab</a>, which focuses on mechanobiology and tissue morphogenesis. Katherine is excited to bring these skills to Janelia.
 
 Outside the lab, Katherine enjoys cooking, running (of course only when it’s not raining!) and yoga.
