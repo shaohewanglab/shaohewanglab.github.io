@@ -27,5 +27,6 @@ Angelo received his B.S. in Microbiology and Parasitology from National Universi
 
 Outside the lab, Angelo enjoys reading, listening to podcasts, watching documentaries and soccer games.
 
-**Selected Awards**
+##### Selected Awards
+
 - 2022&nbsp;&nbsp;&nbsp;&nbsp;1st Place Poster Award at the Vanderbilt Center on Mechanobiology Inaugural Retreat
