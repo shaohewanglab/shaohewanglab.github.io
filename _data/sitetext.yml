@@ -88,34 +88,55 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
-      - image: assets/img/fun/2022-empty-lab.JPG
-        name: 2022-empty-lab.JPG
-        description: Empty lab space on the first day!
-      - image: assets/img/fun/2022-filled-lab.JPG
-        name: 2022-filled-lab.JPG
-        description: Filled lab space after one month!
-      - image: assets/img/fun/2022-JRC-roof.JPG
-        name: 2022-JRC-roof.JPG
-        description: Beautiful scene on the campus.
-      - image: assets/img/fun/2022-JRC-morning-001.JPG
-        name: 2022-JRC-morning-001.JPG
-        description: Good morning JRC!
-      - image: assets/img/fun/2022-DC-cherry-blossom.jpeg
-        name: 2022-DC-cherry-blossom.jpeg
-        description: "Cherry blossom near the tidal basin. 2022 peak cherry blossom day!"
-      - image: assets/img/fun/2022-Washington-monument.jpg
-        name: 2022-Washington-monument.jpg
-        description: "The Washington monument."
+      - image: assets/img/fun/2023-Angelo-1st-day.JPG
+        name: 2023-Angelo-1st-day.JPG
+        description: Lab dinner at Akera on Angelo's 1st day!
+      - image: assets/img/fun/2023-landscape-magnolia.jpg
+        name: 2023-landscape-magnolia.jpg
+        description:
+      - image: assets/img/fun/2023-landscape-flower1.jpg
+        name: 2023-landscape-flower1.jpg
+        description:
+      - image: assets/img/fun/2023-landscape-pond-turtle.jpg
+        name: 2023-landscape-pond-turtle.jpg
+        description:
+      - image: assets/img/fun/2023-landscape-roof-flower2.jpg
+        name: 2023-landscape-roof-flower2.jpg
+        description:
+      - image: assets/img/fun/2023-leaf-on-Potomac-river.jpg
+        name: 2023-leaf-on-Potomac-river.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-bikes.jpg
+        name: 2023-Selden-Island-bikes.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-blue-bell.jpg
+        name: 2023-Selden-Island-blue-bell.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-dandelion-flower.jpg
+        name: 2023-Selden-Island-dandelion-flower.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-dandelion-seed.jpg
+        name: 2023-Selden-Island-dandelion-seed.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-Di-and-dandelion.jpg
+        name: 2023-Selden-Island-Di-and-dandelion.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-flower1.jpg
+        name: 2023-Selden-Island-flower1.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-flower2.jpg
+        name: 2023-Selden-Island-flower2.jpg
+        description:
+      - image: assets/img/fun/2023-Selden-Island-flower3.jpg
+        name: 2023-Selden-Island-flower3.jpg
+        description:
     events_wide:
       - image: assets/img/fun/2022-Di-biou-01.png
         name: 2022-Di-biou-01.png
         description: "Di's awesome drawing of a dinosaur researcher."
-      - image: assets/img/fun/2022-DC-tidal-basin.jpeg
-        name: 2022-DC-tidal-basin.jpeg
-        description: "Overlook of the Jefferson Memorial across the tidal basin."
-      # - image: assets/img/fun/2022-Selden-island.jpg
-      #   name: 2022-Selden-island.jpg
-      #   description: "Selden island in the winter."
+      - image: assets/img/fun/2023-cherry-blossom-over-landscape.jpg
+        name: 2023-cherry-blossom-over-landscape.jpg
+        description: "Cheery blossom over the landscape building."
 
   timeline:
     title: "Lab News"
