@@ -90,10 +90,10 @@ en: &DEFAULT_EN
     events:
       - image: assets/img/fun/2023-Angelo-1st-day.JPG
         name: 2023-Angelo-1st-day.JPG
-        description: Lab dinner at Akera on Angelo's 1st day!
+        description: Lab dinner at Akira on Angelo's 1st day!
       - image: assets/img/fun/2023-landscape-magnolia.jpg
         name: 2023-landscape-magnolia.jpg
-        description:
+        description: Magnolia in the middle of landscape.
       - image: assets/img/fun/2023-landscape-flower1.jpg
         name: 2023-landscape-flower1.jpg
         description:
