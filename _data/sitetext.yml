@@ -129,17 +129,17 @@ en: &DEFAULT_EN
         desc: Our lab is part of <a href="https://4dcpjanelia.org" target="_blank">4D Cellular Physiology</a>, the new exciting research area at HHMI Janelia!
         image: assets/img/timeline/Empty_lab.jpg
         alt:
-      - title: "Angelo decides to join the lab!"
-        year: "October 2022"
-        desc: Angelo is a Ph.D. student in <a href="https://lab.vanderbilt.edu/tyska-lab/" target="_blank">Dr. Matt Tyska’s lab</a> at Vanderbilt University. He will be joining our lab as a postdoc in the spring of 2023!
-        image: assets/img/timeline/JRC_morning_002.jpg
-      #   alt:
-      #   # you can enforce the alignment
-      #   align: right
       - title: "Di joins the lab!"
         year: "November 2022"
         desc: "Di recently finished her postdoc in Jurrien Dean’s lab at the NIH."
         image: assets/img/timeline/1.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
+      - title: "Angelo joins the lab!"
+        year: "April 2023"
+        desc: "Welcome to Janelia, Angelo!"
+        image: assets/img/timeline/JRC_morning_002.jpg
       #   alt:
       #   # you can enforce the alignment
       #   align: right
