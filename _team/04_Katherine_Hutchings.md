@@ -2,7 +2,7 @@
 caption: #what displays on the main page:
   name: Katherine Hutchings
 #   degree: Ph.D.
-  position: Visiting Undergrad Scholar (incoming)
+  position: Visiting Undergrad Scholar
   image: assets/img/team/Katherine_Hutchings.png
   pronouns: "Pronouns: She/Her"
   social:
@@ -19,7 +19,7 @@ caption: #what displays on the main page:
 
 #what displays when the item is clicked:
 title: Katherine Hutchings
-subtitle: Visiting Undergraduate Scholar (incoming)
+subtitle: Visiting Undergraduate Scholar
 image: assets/img/team/Katherine_Hutchings_full.png #main image, can be a link or a file in assets/img/portfolio
 alt: Katherine Hutchings picture
 

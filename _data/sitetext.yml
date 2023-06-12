@@ -164,6 +164,13 @@ en: &DEFAULT_EN
       #   alt:
       #   # you can enforce the alignment
       #   align: right
+      - title: "Katherine joins the lab!"
+        year: "June 2023"
+        desc: "Welcome to Janelia, Katherine!"
+        image: assets/img/timeline/JRC_morning_001.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
     end: yes
     end_title: "Come work with us!"
     end_desc: We have opportunities for undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
