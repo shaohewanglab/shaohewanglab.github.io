@@ -88,9 +88,9 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: fun
     events:
-      - image: assets/img/fun/2023-Angelo-1st-day-v2.JPG
-        name: 2023-Angelo-1st-day.JPG
-        description: Lab dinner at Akira on Angelo's 1st day!
+      - image: assets/img/fun/2023-06-13-Katherine-2nd-day.jpg
+        name: 2023-06-13-Katherine-2nd-day.jpg
+        description: Lab dinner at Rupa Vira’s The Signature on Katherine's 2nd day!
       - image: assets/img/fun/2023-landscape-magnolia.jpg
         name: 2023-landscape-magnolia.jpg
         description: Magnolia in the middle of landscape.
