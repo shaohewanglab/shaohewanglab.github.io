@@ -3,7 +3,7 @@ caption: #what displays on the main page:
   name: Shunze Yao
 #   degree: Ph.D.
   position: Visiting Undergrad Scholar
-  image: assets/img/team/Shunze_Yao.png
+  image: assets/img/team/Shunze_Yao.jpg
   pronouns: "Pronouns: He/Him"
   social:
     # - url: https://twitter.com/KA_Hutchings
@@ -20,7 +20,7 @@ caption: #what displays on the main page:
 #what displays when the item is clicked:
 title: Shunze Yao
 subtitle: Visiting Undergraduate Scholar
-image: assets/img/team/Shunze Yao_full.png #main image, can be a link or a file in assets/img/team
+image: assets/img/team/Shunze_Yao_full.jpg #main image, can be a link or a file in assets/img/team
 alt: Shunze Yao picture
 
 ---
