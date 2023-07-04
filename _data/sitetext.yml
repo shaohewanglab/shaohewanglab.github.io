@@ -171,6 +171,13 @@ en: &DEFAULT_EN
       #   alt:
       #   # you can enforce the alignment
       #   align: right
+      - title: "Shunze joins the lab!"
+        year: "July 2023"
+        desc: "Welcome to Janelia, Shunze!"
+        image: assets/img/timeline/2.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
     end: yes
     end_title: "Come work with us!"
     end_desc: We have opportunities for undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
