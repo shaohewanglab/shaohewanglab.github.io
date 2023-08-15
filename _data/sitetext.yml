@@ -90,7 +90,7 @@ en: &DEFAULT_EN
     events:
       - image: assets/img/fun/2023-06-13-Katherine-2nd-day.jpg
         name: 2023-06-13-Katherine-2nd-day.jpg
-        description: Lab dinner at Rupa Vira’s The Signature on Katherine's 2nd day!
+        description:
       - image: assets/img/fun/2023-07-31-group-photo-01.jpg
         name: 2023-07-31-group-photo-01.jpg
         description:
@@ -110,9 +110,9 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-Di-biou-01.png
         name: 2022-Di-biou-01.png
         description: "Di's awesome drawing of a dinosaur researcher."
-      - image: assets/img/fun/2023-cherry-blossom-over-landscape.jpg
-        name: 2023-cherry-blossom-over-landscape.jpg
-        description: "Cheery blossom over the landscape building."
+      - image: assets/img/fun/2023-07-31-group-photo-02.jpg
+        name: 2023-07-31-group-photo-02.jpg
+        description: "Happy group after the first lab meeting!"
 
   timeline:
     title: "Lab News"
