@@ -91,20 +91,8 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2023-06-13-Katherine-2nd-day.jpg
         name: 2023-06-13-Katherine-2nd-day.jpg
         description: Lab dinner at Rupa Vira’s The Signature on Katherine's 2nd day!
-      - image: assets/img/fun/2023-landscape-magnolia.jpg
-        name: 2023-landscape-magnolia.jpg
-        description: Magnolia in the middle of landscape.
-      - image: assets/img/fun/2023-landscape-flower1.jpg
-        name: 2023-landscape-flower1.jpg
-        description:
-      - image: assets/img/fun/2023-landscape-pond-turtle.jpg
-        name: 2023-landscape-pond-turtle.jpg
-        description:
-      - image: assets/img/fun/2023-landscape-roof-flower2.jpg
-        name: 2023-landscape-roof-flower2.jpg
-        description:
-      - image: assets/img/fun/2023-leaf-on-Potomac-river.jpg
-        name: 2023-leaf-on-Potomac-river.jpg
+      - image: assets/img/fun/2023-07-31-group-photo-01.jpg
+        name: 2023-07-31-group-photo-01.jpg
         description:
       - image: assets/img/fun/2023-Selden-Island-bikes.jpg
         name: 2023-Selden-Island-bikes.jpg
@@ -115,20 +103,8 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2023-Selden-Island-dandelion-flower.jpg
         name: 2023-Selden-Island-dandelion-flower.jpg
         description:
-      - image: assets/img/fun/2023-Selden-Island-dandelion-seed.jpg
-        name: 2023-Selden-Island-dandelion-seed.jpg
-        description:
       - image: assets/img/fun/2023-Selden-Island-Di-and-dandelion.jpg
         name: 2023-Selden-Island-Di-and-dandelion.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-flower1.jpg
-        name: 2023-Selden-Island-flower1.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-flower2.jpg
-        name: 2023-Selden-Island-flower2.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-flower3.jpg
-        name: 2023-Selden-Island-flower3.jpg
         description:
     events_wide:
       - image: assets/img/fun/2022-Di-biou-01.png
