@@ -91,18 +91,6 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2023-06-13-Katherine-2nd-day.jpg
         name: 2023-06-13-Katherine-2nd-day.jpg
         description:
-      - image: assets/img/fun/2023-07-31-group-photo-01.jpg
-        name: 2023-07-31-group-photo-01.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-bikes.jpg
-        name: 2023-Selden-Island-bikes.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-blue-bell.jpg
-        name: 2023-Selden-Island-blue-bell.jpg
-        description:
-      - image: assets/img/fun/2023-Selden-Island-dandelion-flower.jpg
-        name: 2023-Selden-Island-dandelion-flower.jpg
-        description:
       - image: assets/img/fun/2023-Selden-Island-Di-and-dandelion.jpg
         name: 2023-Selden-Island-Di-and-dandelion.jpg
         description:
@@ -110,8 +98,8 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2022-Di-biou-01.png
         name: 2022-Di-biou-01.png
         description: "Di's awesome drawing of a dinosaur researcher."
-      - image: assets/img/fun/2023-07-31-group-photo-02.jpg
-        name: 2023-07-31-group-photo-02.jpg
+      - image: assets/img/fun/2023-07-31-group-photo-01.jpg
+        name: 2023-07-31-group-photo-01.jpg
         description: "Happy group after the first lab meeting!"
       - image: assets/img/fun/2023-06-23-Blowling-4DCP.jpg
         name: 2023-06-23-Blowling-4DCP.jpg
