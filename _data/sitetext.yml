@@ -134,7 +134,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/JRC_morning_001.jpg
       - title: "Di's annual review is online!"
         year: "June 2023"
-        desc: Great read on tissue morphogenesis! See <a class="js-scroll-trigger" href="#publications">TEAM</a>.
+        desc: Great read on tissue morphogenesis! See <a class="js-scroll-trigger" href="#publications">PUBLICATIONS</a>.
         image: assets/img/timeline/3.jpg
       - title: "Shunze joins the lab!"
         year: "July 2023"
