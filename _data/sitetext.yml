@@ -101,7 +101,7 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2023-06-23-Blowling-4DCP.jpg
         name: 2023-06-23-Blowling-4DCP.jpg
         description: "Bowling night of some 4DCP labs."
-      - image: assets/img/fun/2023-lab-rafting-1.HEIC
+      - image: assets/img/fun/2023-lab-rafting-1.jpg
         name: 2023-lab-rafting-1.HEIC
         description: "Rafting on the calm Potomac River!"
 
