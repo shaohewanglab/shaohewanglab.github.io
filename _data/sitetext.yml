@@ -102,8 +102,11 @@ en: &DEFAULT_EN
         name: 2023-06-23-Blowling-4DCP.jpg
         description: "Bowling night of some 4DCP labs."
       - image: assets/img/fun/2023-lab-rafting-1.jpg
-        name: 2023-lab-rafting-1.HEIC
+        name: 2023-lab-rafting-1.jpg
         description: "Rafting on the calm Potomac River!"
+      - image: assets/img/fun/2023-Di-shell-painting-bud-front.jpg
+        name: 2023-Di-shell-painting-bud-front.jpg
+        description: "Di's creative shell painting of a branching gland!"
 
   timeline:
     title: "Lab News"
