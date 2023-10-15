@@ -13,10 +13,8 @@ alt:
 
 ##### Katherine Hutchings
 
-    - 6/12/2023 - 9/15/2023
-    - Visiting Undergraduate Scholar
-    - Pronouns: She/Her
-    - <a href="https://twitter.com/KA_Hutchings" target="_blank">Twitter</a>
-    - Before: Undergraduate Student, University College London
-    - After: Undergraduate Student, University College London
-    <!-- - Current Position: -->
+- 6/12/2023 - 9/15/2023
+- Visiting Undergraduate Scholar
+- Pronouns: She/Her
+- Before: Undergraduate Student, University College London
+- After: Undergraduate Student, University College London
