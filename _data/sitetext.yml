@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     # text: "Small labs. Big science."
-    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    # subtext: 
     section: team
     closebutton: "Close"
 
