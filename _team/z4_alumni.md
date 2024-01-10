@@ -13,8 +13,6 @@ alt:
 
 ##### Katherine Hutchings
 
-[Katherine Hutchings's picture](assets/img/team/Katherine_Hutchings.jpg)
-
 - 6/12/2023 - 9/15/2023
 - Visiting Undergraduate Scholar
 - Pronouns: She/Her
@@ -22,8 +20,6 @@ alt:
 - After: Undergraduate Student, University College London
 
 ##### Shunze Yao
-
-[Shunze Yao's picture](assets/img/team/Shunze_Yao.jpg)
 
 - 7/5/2023 - 12/15/2023
 - Visiting Undergraduate Scholar
