@@ -29,5 +29,5 @@ Outside the lab, Yihe enjoys photography, reading, and playing games.
 
 ##### Selected Awards
 
-- 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silver medal, China High School Biology Olympiad
+- 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silver medal, China High School Biology Olympiad
 - 2022&2023&nbsp;&nbsp;&nbsp;&nbsp;China National Scholarship
