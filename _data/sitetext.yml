@@ -143,6 +143,10 @@ en: &DEFAULT_EN
         year: "July 2023"
         desc: "Welcome to Janelia, Shunze!"
         image: assets/img/timeline/2.jpg
+      - title: "Yihe joins the lab!"
+        year: "March 2024"
+        desc: "Welcome to Janelia, Yihe!"
+        image: assets/img/timeline/1.jpg
     end: yes
     end_title: "Come work with us!"
     end_desc: We have opportunities for undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
