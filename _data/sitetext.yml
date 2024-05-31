@@ -120,33 +120,37 @@ en: &DEFAULT_EN
         desc: Our lab is part of <a href="https://4dcpjanelia.org" target="_blank">4D Cellular Physiology</a>, the new exciting research area at HHMI Janelia!
         image: assets/img/timeline/Empty_lab.jpg
         alt:
-      - title: "Di joins the lab!"
-        year: "November 2022"
-        desc: "Di recently finished her postdoc in Jurrien Dean’s lab at the NIH."
-        image: assets/img/timeline/1.jpg
-      #   alt:
-      #   # you can enforce the alignment
-      #   align: right
-      - title: "Angelo joins the lab!"
-        year: "April 2023"
-        desc: "Welcome to Janelia, Angelo!"
-        image: assets/img/timeline/JRC_morning_002.jpg
-      - title: "Katherine joins the lab!"
-        year: "June 2023"
-        desc: "Welcome to Janelia, Katherine!"
-        image: assets/img/timeline/JRC_morning_001.jpg
-      - title: "Di's annual review is online!"
-        year: "June 2023"
-        desc: Great read on tissue morphogenesis! See <a class="js-scroll-trigger" href="#publications">PUBLICATIONS</a>.
-        image: assets/img/timeline/3.jpg
-      - title: "Shunze joins the lab!"
-        year: "July 2023"
-        desc: "Welcome to Janelia, Shunze!"
-        image: assets/img/timeline/2.jpg
+      # - title: "Di joins the lab!"
+      #   year: "November 2022"
+      #   desc: "Di recently finished her postdoc in Jurrien Dean’s lab at the NIH."
+      #   image: assets/img/timeline/1.jpg
+      # #   alt:
+      # #   # you can enforce the alignment
+      # #   align: right
+      # - title: "Angelo joins the lab!"
+      #   year: "April 2023"
+      #   desc: "Welcome to Janelia, Angelo!"
+      #   image: assets/img/timeline/JRC_morning_002.jpg
+      # - title: "Katherine joins the lab!"
+      #   year: "June 2023"
+      #   desc: "Welcome to Janelia, Katherine!"
+      #   image: assets/img/timeline/JRC_morning_001.jpg
+      # - title: "Di's annual review is online!"
+      #   year: "June 2023"
+      #   desc: Great read on tissue morphogenesis! See <a class="js-scroll-trigger" href="#publications">PUBLICATIONS</a>.
+      #   image: assets/img/timeline/3.jpg
+      # - title: "Shunze joins the lab!"
+      #   year: "July 2023"
+      #   desc: "Welcome to Janelia, Shunze!"
+      #   image: assets/img/timeline/2.jpg
       - title: "Yihe joins the lab!"
         year: "March 2024"
         desc: "Welcome to Janelia, Yihe!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/JRC_morning_001.jpg
+      - title: "Ryan joins the lab!"
+        year: "May 2024"
+        desc: "Welcome to Janelia, Ryan!"
+        image: assets/img/timeline/JRC_morning_002.jpg
     end: yes
     end_title: "Come work with us!"
     end_desc: We have opportunities for undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
