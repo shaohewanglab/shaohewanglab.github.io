@@ -151,9 +151,9 @@ en: &DEFAULT_EN
         year: "May 2024"
         desc: "Welcome to Janelia, Ryan!"
         image: assets/img/timeline/JRC_morning_002.jpg
-      - title: Angelo's <a href="https://authors.elsevier.com/a/1jB4xFzn7SU8w" target="_blank">book chapter</a> is online! Congrats, Angelo!
+      - title: Angelo's <a href="https://authors.elsevier.com/a/1jB4xFzn7SU8w" target="_blank">book chapter</a> is online!
         year: "May 2024"
-        desc: "Welcome to Janelia, Ryan!"
+        desc: "Congrats, Angelo!"
         image: assets/img/timeline/3.jpg
     end: no
     end_title: "Come work with us!"
