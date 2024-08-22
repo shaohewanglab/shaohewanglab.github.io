@@ -18,6 +18,7 @@ alt:
 - Pronouns: She/Her
 - Before: Undergraduate Student, University College London
 - After: Undergraduate Student, University College London
+- Current: Janelia-Hopkins XDBio Graduate Student
 
 ##### Shunze Yao
 
@@ -25,4 +26,20 @@ alt:
 - Visiting Undergraduate Scholar
 - Pronouns: He/Him
 - Before: Undergraduate Student, Peking University
-- After: Undergraduate Student, Peking University
+- After: Graduate Student, Peking University
+
+##### Yihe Wu
+
+- 3/1/2024 - 7/23/2024
+- Visiting Undergraduate Scholar
+- Pronouns: He/Him
+- Before: Undergraduate Student, Peking University
+- After: Graduate Student, Peking University
+
+##### Ryan Tom
+
+- 5/28/2024 - 8/8/2024
+- Janelia-Meyerhoff Undergrad Scholar
+- Pronouns: He/Him
+- Before: Undergraduate Student, University of California Berkeley
+- After: Undergraduate Student, University of California Berkeley
