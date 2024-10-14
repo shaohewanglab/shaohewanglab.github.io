@@ -1,12 +1,12 @@
 ---
 caption: #what displays on the main page:
-  name: Awesome Scientists
+  name: Awesome People
   degree: Who worked with us
   position: 
   image: assets/img/team/alumni.png
 
 title: Lab Alumni
-subtitle: Awesome scientists who worked with us
+subtitle: Awesome people who worked with us
 image:
 alt:
 ---
