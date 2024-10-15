@@ -143,21 +143,21 @@ en: &DEFAULT_EN
       #   year: "July 2023"
       #   desc: "Welcome to Janelia, Shunze!"
       #   image: assets/img/timeline/2.jpg
-      - title: "Yihe joins the lab!"
-        year: "March 2024"
-        desc: "Welcome to Janelia, Yihe!"
-        image: assets/img/timeline/JRC_morning_001.jpg
-      - title: "Ryan joins the lab!"
-        year: "May 2024"
-        desc: "Welcome to Janelia, Ryan!"
-        image: assets/img/timeline/JRC_morning_002.jpg
+      # - title: "Yihe joins the lab!"
+      #   year: "March 2024"
+      #   desc: "Welcome to Janelia, Yihe!"
+      #   image: assets/img/timeline/JRC_morning_001.jpg
+      # - title: "Ryan joins the lab!"
+      #   year: "May 2024"
+      #   desc: "Welcome to Janelia, Ryan!"
+      #   image: assets/img/timeline/JRC_morning_002.jpg
       - title: Angelo's <a href="https://authors.elsevier.com/a/1jB4xFzn7SU8w" target="_blank">book chapter</a> is online!
         year: "May 2024"
         desc: "Congrats, Angelo!"
         image: assets/img/timeline/3.jpg
-    end: no
+    end: yes
     end_title: "Come work with us!"
-    end_desc: We have opportunities for undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
+    end_desc: We have opportunities for graduate students, undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
     end_image: assets/img/timeline/join-01.png
 
   contact:
