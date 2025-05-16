@@ -166,6 +166,7 @@ en: &DEFAULT_EN
     # email: "shaohewanglab {at} gmail.com"
     email: "wangs6 {at} janelia.hhmi.org"
     twitter_url: https://twitter.com/shaohewanglab
+    bluesky_url: https://bsky.app/profile/shaohewanglab.bsky.social
 
 
   footer:
