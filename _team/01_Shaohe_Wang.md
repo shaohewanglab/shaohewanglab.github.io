@@ -7,7 +7,7 @@ caption: #what displays on the main page:
   pronouns: "Pronouns: He/Him"
   social:
     - url: https://bsky.app/profile/snownontrace.bsky.social
-      icon: fa-brands fa-bluesky
+      icon: fab fa-bluesky
     # - url: https://linkedin.com/in/shaohe-wang-87833513/
     #   icon: fab fa-linkedin-in
     - url: https://github.com/snownontrace
