@@ -6,8 +6,8 @@ caption: #what displays on the main page:
   image: assets/img/team/Shaohe_Wang.jpg
   pronouns: "Pronouns: He/Him"
   social:
-    - url: https://twitter.com/snownontrace
-      icon: fab fa-twitter
+    - url: https://bsky.app/profile/snownontrace.bsky.social
+      icon: fa-brands fa-bluesky
     # - url: https://linkedin.com/in/shaohe-wang-87833513/
     #   icon: fab fa-linkedin-in
     - url: https://github.com/snownontrace
