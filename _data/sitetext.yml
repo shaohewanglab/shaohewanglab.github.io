@@ -171,8 +171,8 @@ en: &DEFAULT_EN
 
   footer:
     social:
-      - url: https://twitter.com/shaohewanglab
-        icon: fab fa-twitter
+      - url: https://bsky.app/profile/shaohewanglab.bsky.social
+        icon: fab fa-bluesky
       - url: https://github.com/shaohewanglab
         icon: fab fa-github
       # - url: mailto:shaohewanglab@gmail.com
