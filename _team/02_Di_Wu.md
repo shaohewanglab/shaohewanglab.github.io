@@ -6,8 +6,8 @@ caption: #what displays on the main page:
   image: assets/img/team/Di_Wu_v3.jpg
   pronouns: "Pronouns: She/Her"
   social:
-    - url: https://twitter.com/Di62429874
-      icon: fab fa-twitter
+    # - url: https://twitter.com/Di62429874
+    #   icon: fab fa-twitter
     # - url: https://linkedin.com/in/di-wu-68a78b104/
     #   icon: fab fa-linkedin-in
     - url: https://github.com/Di-aswater

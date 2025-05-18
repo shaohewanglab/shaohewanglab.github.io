@@ -6,8 +6,8 @@ caption: #what displays on the main page:
   image: assets/img/team/Angelo_Morales.jpg
   pronouns: "Pronouns: He/Him"
   social:
-    - url: https://twitter.com/eangelomorales
-      icon: fab fa-twitter
+    # - url: https://twitter.com/eangelomorales
+    #   icon: fab fa-twitter
     # - url: https://github.com/?
     #   icon: fab fa-github
     - url: https://orcid.org/0000-0002-8977-5923
