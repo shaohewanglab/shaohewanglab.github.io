@@ -3,7 +3,7 @@ caption: #what displays on the main page:
   name: Sanchit Korde
 #   degree: Ph.D.
   position: Visiting Student Scientist
-  image: assets/img/team/Sanchit_Korde_v2.jpg
+  image: assets/img/team/Sanchit_Korde_v3.jpg
   pronouns: "Pronouns: He/Him"
   social:
     # - url: https://twitter.com/KA_Hutchings
