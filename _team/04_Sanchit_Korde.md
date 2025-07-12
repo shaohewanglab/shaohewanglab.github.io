@@ -20,7 +20,7 @@ caption: #what displays on the main page:
 #what displays when the item is clicked:
 title: Sanchit Korde
 subtitle: Visiting Student Scientist
-image: assets/img/team/Sanchit_Korde_v0.jpg #main image, can be a link or a file in assets/img/team
+image: assets/img/team/Sanchit_Korde_v2.jpg #main image, can be a link or a file in assets/img/team
 alt: Sanchit Korde picture
 
 ---
