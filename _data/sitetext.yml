@@ -157,7 +157,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
     end: yes
     end_title: "Come work with us!"
-    end_desc: We have opportunities for graduate students, undergraduate scholars and visisting scientists! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
+    end_desc: We have opportunities for graduate students and undergraduate scholars! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
     end_image: assets/img/timeline/join-01.png
 
   contact:
