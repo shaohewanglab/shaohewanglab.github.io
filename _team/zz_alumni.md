@@ -49,3 +49,11 @@ alt:
 - Pronouns: He/Him
 - Before: Undergraduate Student, University of California Berkeley
 - After: Undergraduate Student, University of California Berkeley
+
+##### Lai Wei
+
+- 6/2/2025 - 8/8/2025
+- Rotating Graduate Scholar
+- Pronouns: He/Him
+- Before: Graduate Student, Johns Hopkins University
+- After: Graduate Student, Johns Hopkins University
