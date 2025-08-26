@@ -1,7 +1,7 @@
 ---
 caption: #what displays on the main page:
   name: Sanchit Korde
-#   degree: Ph.D.
+  degree: B.S.
   position: Visiting Student Scientist
   image: assets/img/team/Sanchit_Korde_v3.jpg
   pronouns: "Pronouns: He/Him"
