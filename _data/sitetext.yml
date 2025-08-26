@@ -104,9 +104,9 @@ en: &DEFAULT_EN
       - image: assets/img/fun/2023-lab-rafting-1.jpg
         name: 2023-lab-rafting-1.jpg
         description: "Rafting on the calm Potomac River!"
-      - image: assets/img/fun/2023-Di-shell-painting-bud-front.jpg
-        name: 2023-Di-shell-painting-bud-front.jpg
-        description: "Di's creative shell painting of a branching gland!"
+      - image: assets/img/fun/2025-08-21-Peter-Chang.jpg
+        name: 2025-08-21-Peter-Chang.jpg
+        description: "Group dinner at Peter Chang."
 
   timeline:
     title: "Lab News"
