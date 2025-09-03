@@ -155,6 +155,10 @@ en: &DEFAULT_EN
         year: "May 2024"
         desc: "Congrats, Angelo!"
         image: assets/img/timeline/3.jpg
+      - title: "Christian joins the lab!"
+        year: "Aug 2025"
+        desc: "Welcome to Janelia, Christian!"
+        image: assets/img/timeline/JRC_morning_002.jpg
     end: yes
     end_title: "Come work with us!"
     end_desc: We have opportunities for graduate students and undergraduate scholars! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
