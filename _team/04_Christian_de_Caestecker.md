@@ -19,7 +19,7 @@ alt: Christian de Caestecker picture
 
 ---
 
-Christian received his B.S. in Biochemistry, Cellular & Molecular Biology from the University of Tennessee and a Ph.D. in Cell & Developmental Biology from Vanderbilt University in <a href="https://lab.vanderbilt.edu/macara-lab/" target="_blank">Dr. Ian Macara’s laboratory</a> (2025). His dissertation work revealed that size-selective filtering at the Golgi regulates apical membrane protein sorting in polarized epithelia (<a hred="https://www.nature.com/articles/s41556-024-01500-0" target="_blank">_Nature Cell Biology_, 2024</a>). Along the way, he developed expertise in synthetic biology, advanced microscopy, and a new-found interest in computational modeling. In the Wang lab, he is interested in uncovering biophysical phenomena that coordinate morphogenesis in branched tissues.
+Christian received his B.S. in Biochemistry, Cellular & Molecular Biology from the University of Tennessee and a Ph.D. in Cell & Developmental Biology from Vanderbilt University in <a href="https://lab.vanderbilt.edu/macara-lab/" target="_blank">Dr. Ian Macara’s laboratory</a> (2025). His dissertation work revealed that size-selective filtering at the Golgi regulates apical membrane protein sorting in polarized epithelia (<a href="https://www.nature.com/articles/s41556-024-01500-0" target="_blank">_Nature Cell Biology_, 2024</a>). Along the way, he developed expertise in synthetic biology, advanced microscopy, and a new-found interest in computational modeling. In the Wang lab, he is interested in uncovering biophysical phenomena that coordinate morphogenesis in branched tissues.
 
 Outside the lab, Christian (aka CDC) enjoys reading, cooking, exploring local breweries, and rallying friends for board games and trivia.
 
