@@ -25,8 +25,6 @@ Outside the lab, Christian (aka CDC) enjoys reading, cooking, exploring local br
 
 ##### Selected Awards
 
-- 2022&nbsp;&nbsp;&nbsp;&nbsp;1st Place Poster Award at the Vanderbilt Center on Mechanobiology Inaugural Retreat
-
 - 2025&nbsp;&nbsp;&nbsp;&nbsp;Vanderbilt Center on Mechanobiology Interdisciplinary Research Award
 - 2024&nbsp;&nbsp;&nbsp;&nbsp;Steve Hann Outstanding Graduate Student Award
 - 2024&nbsp;&nbsp;&nbsp;&nbsp;Vanderbilt CDB Diversity, Equity, and Inclusion Service Award
