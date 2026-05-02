@@ -57,3 +57,11 @@ alt:
 - Pronouns: He/Him
 - Before: Graduate Student, Johns Hopkins University
 - After: Graduate Student, Johns Hopkins University
+
+##### Sanchit Korde
+
+- 5/20/2025 - 4/20/2026
+- Rotating Graduate Scholar
+- Pronouns: He/Him
+- Before: Master Student, Indian Institute of Science Education and Research (IISER), Berhampur
+- After: Graduate Student
