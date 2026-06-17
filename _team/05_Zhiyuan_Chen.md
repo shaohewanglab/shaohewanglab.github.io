@@ -1,7 +1,7 @@
 ---
 caption: #what displays on the main page:
   name: Zhiyuan Chen
-  degree:
+  degree: Undergraduate Student
   position: Cech Fellow
   image: assets/img/team/Zhiyuan_Chen.jpg
   pronouns: "Pronouns: He/Him"
@@ -13,7 +13,7 @@ caption: #what displays on the main page:
 
 #what displays when the item is clicked:
 title: Zhiyuan Chen
-subtitle: Postdoctoral Scientist
+subtitle: <a href="https://www.hhmi.org/programs/cech-fellows" target="_blank">Cech Fellow</a>
 image: assets/img/team/Zhiyuan_Chen.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Zhiyuan Chen picture
 
