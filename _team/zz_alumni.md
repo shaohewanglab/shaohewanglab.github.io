@@ -65,3 +65,11 @@ alt:
 - Pronouns: He/Him
 - Before: Master Student, Indian Institute of Science Education and Research (IISER), Berhampur
 - After: Graduate Student
+
+##### Zhiyuan Chen
+
+- 6/15/2026 - 8/14/2026
+- Cech Fellow Student
+- Pronouns: He/Him
+- Before: Undergraduate Student, Purdue University
+- After: Undergraduate Student, Purdue University
