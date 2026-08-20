@@ -25,10 +25,11 @@ en: &DEFAULT_EN
 
   research:
     title: "Research"
-    text: "Understanding by Building"
+    text: "How do cells turn local information into functional tissue architecture?"
     section: research
-    summary_1: "Through coordinated tissue morphogenesis and cell specialization, organ development generates complex structures tailored for diverse physiological functions. For example, lungs, kidneys, and various glands generate tree-like branched structures, where numerous end buds specialized for air exchange, blood filtration, or secretion are connected by a hierarchical ductal system. The mature branched structure arises from a single epithelial bud at the embryonic stage through branching morphogenesis, which requires the dynamic interplay between cells and the extracellular matrix. We are only beginning to understand the principles of branching morphogenesis and other processes in organ development, which will be crucial for developing gene, cell, and tissue engineering-based therapies for defective organs."
-    summary_2: "We combine embryonic and reconstitution approaches to discover principles of organ development. We employ live imaging, sequencing, spatial transcriptomics, genetic perturbation, and targeted protein degradation to probe native organ development, primarily (but not limited to) using the mouse salivary gland as a versatile model. Driven by the \"understanding by building\" philosophy, we always try to reconstitute key biological processes from neutral building blocks. Whenever applicable, we use mathematical or physical modeling to theorize our findings. We aspire to pave the way of building customizable organs from the bottom up."
+    summary_1: "Our lab investigates how cells integrate physical forces, biochemical signals, and metabolic state to coordinate tissue development. We combine quantitative live imaging, engineered molecular tools, and computational modeling to observe and perturb these normally hidden processes across scales, from individual molecules to entire organs."
+    summary_2: "Branching epithelial tissues, particularly the salivary gland, provide a powerful testbed for discovering how local cell behaviors generate reproducible structure. By uncovering these organizing principles, we aim to make tissue development predictable and ultimately controllable, with implications for regeneration, cancer, and fibrotic disease."
+    summary_3: "Our interdisciplinary research creates opportunities for trainees interested in cell and developmental biology, mechanobiology, bioengineering, advanced imaging, or machine learning to help answer a shared question: **How do tissues build themselves, and how might we learn to build them?**"
     summary_end: "*Click on the movies to learn more:*"
     closebutton: "Close"
 
