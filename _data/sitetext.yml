@@ -187,9 +187,6 @@ en: &DEFAULT_EN
       - url: https://www.janelia.org
         name: HHMI Janelia
         logo: /assets/img/logo/HHMI_Janelia_Logo-Black.png
-      - url: https://4dcpjanelia.org
-        name: 4DCP
-        logo: /assets/img/logo/4DCP-text-01.png
 
 en-US:
   <<: *DEFAULT_EN

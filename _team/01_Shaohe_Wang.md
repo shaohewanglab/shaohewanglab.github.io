@@ -28,7 +28,7 @@ alt: Shaohe Wang picture
 Shaohe received B.S. (2008) in Biological Sciences from Tsinghua University, and Ph.D. (2014) in Biomedical Sciences from the University of California, San Diego.
 During his Ph.D. in <a href="http://www.oegemadesailab.org" target="_blank">Dr. Karen Oegema's lab</a>, Shaohe studied how cells assemble non-centrosomal microtubule arrays using *C. elegans* as a model.
 As a postdoc with <a href="https://www.nidcr.nih.gov/research/conducted-at-nidcr/investigators/kenneth-yamada" target="_blank">Dr. Ken Yamada</a> at the NIH, Shaohe studied how organs form tree-like hierarchical structures using mouse embryonic salivary glands as a model.
-In 2022, Shaohe joined the HHMI Janelia as a Group Leader in the <a href="https://4dcpjanelia.org" target="_blank">4D Cellular Physiology</a> Research Area.
+In 2022, Shaohe joined the HHMI Janelia as a Group Leader in the 4D Cellular Physiology (4DCP) Research Area.
 
 Outside the lab, Shaohe enjoys photography, badminton, running, reading, and listening to podcasts. Shaohe is also a certified instructor of the <a href="https://datacarpentry.org" target="_blank">Data Carpentry</a>, which is a volunteer-based community that develops and teaches workshops on the fundamental data skills needed to conduct research.
 
