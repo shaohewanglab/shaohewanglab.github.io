@@ -28,12 +28,6 @@ alt:
 - Before: Undergraduate Student, Peking University
 - After: Graduate Student, Peking University
 
-##### Bella Smith
-
-- 9/2/2022 - 6/28/2024
-- Lab Coordinator
-- Pronouns: She/Her
-
 ##### Yihe Wu
 
 - 3/1/2024 - 7/23/2024
