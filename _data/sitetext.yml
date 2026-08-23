@@ -160,10 +160,14 @@ en: &DEFAULT_EN
         year: "Aug 2025"
         desc: "Welcome to Janelia, Christian!"
         image: assets/img/timeline/JRC_morning_002.jpg
-    end: yes
-    end_title: "Come work with us!"
-    end_desc: We have opportunities for graduate students and undergraduate scholars! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
-    end_image: assets/img/timeline/join-01.png
+      - title: Di's <a href="https://www.biorxiv.org/content/10.64898/2026.08.18.745627v1.full" target="_blank">preprint on WHaloForce</a> is online!
+        year: "Aug 2026"
+        desc: "Congrats, Di!"
+        image: assets/img/timeline/JRC_morning_001.jpg
+    # end: yes
+    # end_title: "Come work with us!"
+    # end_desc: We have opportunities for graduate students and undergraduate scholars! See prospective positions in <a class="js-scroll-trigger" href="#team">TEAM</a> for details.
+    # end_image: assets/img/timeline/join-01.png
 
   contact:
     title: "Contact Us"
