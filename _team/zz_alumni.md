@@ -17,8 +17,7 @@ alt:
 - Visiting Undergraduate Scholar
 - Pronouns: She/Her
 - Before: Undergraduate Student, University College London
-- After: Undergraduate Student, University College London
-- Current: Janelia-Hopkins XDBio Graduate Student
+- After: Janelia-Hopkins XDBio Graduate Student
 
 ##### Shunze Yao
 
@@ -58,7 +57,7 @@ alt:
 - Rotating Graduate Scholar
 - Pronouns: He/Him
 - Before: Master Student, Indian Institute of Science Education and Research (IISER), Berhampur
-- After: Graduate Student
+- After: Graduate Student, Mechanobiology Institute, National University of Singapore
 
 ##### Zhiyuan Chen
 
