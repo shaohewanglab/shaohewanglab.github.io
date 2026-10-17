@@ -66,3 +66,11 @@ alt:
 - Pronouns: He/Him
 - Before: Undergraduate Student, Purdue University
 - After: Undergraduate Student, Purdue University
+
+##### Bram Prevo
+
+- 8/16/2025-11/13/2025, 9/4/2026 - 10/15/2026
+- Visiting Scientist
+- Pronouns: He/Him
+- Before: Postdoctoral Fellow, University of Edinburgh
+- After: Postdoctoral Fellow, University of Edinburgh
